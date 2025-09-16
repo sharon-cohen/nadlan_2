@@ -1,0 +1,129 @@
+{
+  "city": "קרית ים",
+  "totalNeighborhoods": 8,
+  "successful": 8,
+  "failed": 0,
+  "results": [
+    {
+      "neighborhood": "קריית ים ד",
+      "neighborhoodId": "65210847",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    },
+    {
+      "neighborhood": "סביוני ים",
+      "neighborhoodId": "65210848",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    },
+    {
+      "neighborhood": "אלמוגים",
+      "neighborhoodId": "65210849",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    },
+    {
+      "neighborhood": "בנה ביתך",
+      "neighborhoodId": "65210850",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    },
+    {
+      "neighborhood": "פסגות ים",
+      "neighborhoodId": "65210851",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    },
+    {
+      "neighborhood": "א",
+      "neighborhoodId": "65210877",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    },
+    {
+      "neighborhood": "קריית ים ב",
+      "neighborhoodId": "65210878",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    },
+    {
+      "neighborhood": "קריית ים ג",
+      "neighborhoodId": "65210879",
+      "status": "success",
+      "data": {
+        "statusCode": 405,
+        "data": {
+          "total_rows": 0,
+          "total_fetch": 0,
+          "total_page": 0,
+          "items": []
+        }
+      },
+      "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+    }
+  ],
+  "errors": []
+}

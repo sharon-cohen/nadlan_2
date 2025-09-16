@@ -1,0 +1,48 @@
+{
+  "name": "nadlan-scraper-recaptcha-bypass",
+  "version": "1.0.0",
+  "description": "Advanced Nadlan scraper with reCAPTCHA bypass techniques",
+  "main": "scrape_neighborhood_deals_with_recaptcha_bypass.js",
+  "scripts": {
+    "start": "node scrape_neighborhood_deals_with_recaptcha_bypass.js",
+    "test": "node test_recaptcha_bypass.js",
+    "demo": "node recaptcha_bypass_demo.html",
+    "install-deps": "npm install puppeteer-extra puppeteer-extra-plugin-stealth puppeteer-extra-plugin-recaptcha"
+  },
+  "keywords": [
+    "scraping",
+    "nadlan",
+    "recaptcha",
+    "bypass",
+    "puppeteer",
+    "real-estate",
+    "israel"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer": "^21.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "prettier": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/nadlan-scraper-recaptcha-bypass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/nadlan-scraper-recaptcha-bypass/issues"
+  },
+  "homepage": "https://github.com/your-username/nadlan-scraper-recaptcha-bypass#readme"
+}
+
+
+
+

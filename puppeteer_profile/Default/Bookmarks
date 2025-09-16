@@ -1,0 +1,47 @@
+{
+   "checksum": "2bb1d6e7ffa33b47a56a54ae67a5ddbf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13402347945078614",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13402347956651522",
+            "date_last_used": "0",
+            "guid": "5e187173-48fc-4e0f-bb16-91c2b882d77a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "אתר הנדל\"ן הממשלתי",
+            "type": "url",
+            "url": "https://www.nadlan.gov.il/?view=settlement&id=2640&page=deals"
+         } ],
+         "date_added": "13402347945078614",
+         "date_last_used": "0",
+         "date_modified": "13402347956651522",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13402347945078614",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

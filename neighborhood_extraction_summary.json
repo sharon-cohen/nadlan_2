@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-07T12:08:13.648Z",
+  "totalCities": 1,
+  "successful": 0,
+  "failed": 1,
+  "results": [],
+  "errors": [
+    {
+      "city": "שער שומרון",
+      "cityId": "3826",
+      "error": "Server returned HTML instead of JSON for https://d30nq1hiio0r3z.cloudfront.net/api/pages/settlement/buy/3826.json",
+      "status": "error"
+    }
+  ]
+}

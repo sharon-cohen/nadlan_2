@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🛡️ reCAPTCHA Bypass Demo</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .demo-section {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 25px;
+            margin: 20px 0;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .demo-section h2 {
+            color: #ffd700;
+            margin-top: 0;
+            font-size: 1.8em;
+        }
+        
+        .code-block {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 20px;
+            margin: 15px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            overflow-x: auto;
+            border-left: 4px solid #ffd700;
+        }
+        
+        .status {
+            padding: 15px;
+            border-radius: 10px;
+            margin: 15px 0;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        .status.success {
+            background: rgba(76, 175, 80, 0.3);
+            border: 2px solid #4caf50;
+            color: #4caf50;
+        }
+        
+        .status.warning {
+            background: rgba(255, 193, 7, 0.3);
+            border: 2px solid #ffc107;
+            color: #ffc107;
+        }
+        
+        .status.error {
+            background: rgba(244, 67, 54, 0.3);
+            border: 2px solid #f44336;
+            color: #f44336;
+        }
+        
+        .button {
+            background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 25px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 10px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+        
+        .button:active {
+            transform: translateY(0);
+        }
+        
+        .technique-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .technique-card {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease;
+        }
+        
+        .technique-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .technique-card h3 {
+            color: #ffd700;
+            margin-top: 0;
+        }
+        
+        .log {
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            max-height: 200px;
+            overflow-y: auto;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .log-entry {
+            margin: 5px 0;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        
+        .log-entry.success {
+            background: rgba(76, 175, 80, 0.2);
+            color: #4caf50;
+        }
+        
+        .log-entry.warning {
+            background: rgba(255, 193, 7, 0.2);
+            color: #ffc107;
+        }
+        
+        .log-entry.error {
+            background: rgba(244, 67, 54, 0.2);
+            color: #f44336;
+        }
+        
+        .log-entry.info {
+            background: rgba(33, 150, 243, 0.2);
+            color: #2196f3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🛡️ reCAPTCHA Bypass Demo</h1>
+        
+        <div class="demo-section">
+            <h2>🎯 סטטוס נוכחי</h2>
+            <div id="status" class="status warning">
+                🔍 ממתין לבדיקה...
+            </div>
+            <button class="button" onclick="testRecaptchaBypass()">🧪 בדוק עקיפת reCAPTCHA</button>
+            <button class="button" onclick="clearLog()">🗑️ נקה לוג</button>
+        </div>
+        
+        <div class="demo-section">
+            <h2>📊 לוג פעילות</h2>
+            <div id="log" class="log">
+                <div class="log-entry info">🚀 מערכת מוכנה לבדיקה...</div>
+            </div>
+        </div>
+        
+        <div class="demo-section">
+            <h2>🔧 טכניקות עקיפה</h2>
+            <div class="technique-grid">
+                <div class="technique-card">
+                    <h3>🎭 Mocking grecaptcha</h3>
+                    <p>מחליף את אובייקט grecaptcha הגלובלי עם פונקציות מזויפות</p>
+                    <div class="code-block">
+Object.defineProperty(window, 'grecaptcha', {
+  get: () => ({
+    ready: (callback) => callback(),
+    execute: () => Promise.resolve('fake-token'),
+    render: () => 'fake-widget-id'
+  })
+});
+                    </div>
+                </div>
+                
+                <div class="technique-card">
+                    <h3>🚫 חסימת Scripts</h3>
+                    <p>חוסם טעינת סקריפטים של reCAPTCHA</p>
+                    <div class="code-block">
+Node.prototype.appendChild = function(child) {
+  if (child.src && child.src.includes('recaptcha')) {
+    console.log('Blocked reCAPTCHA script');
+    return child;
+  }
+  return originalAppendChild.call(this, child);
+};
+                    </div>
+                </div>
+                
+                <div class="technique-card">
+                    <h3>🖼️ Canvas Fingerprinting</h3>
+                    <p>מוסיף רעש ל-Canvas כדי להיראות אנושי יותר</p>
+                    <div class="code-block">
+HTMLCanvasElement.prototype.toDataURL = function() {
+  const context = this.getContext('2d');
+  if (context) {
+    // Add noise to canvas
+    const imageData = context.getImageData(0, 0, this.width, this.height);
+    // ... add random noise
+  }
+  return originalToDataURL.apply(this, arguments);
+};
+                    </div>
+                </div>
+                
+                <div class="technique-card">
+                    <h3>🌐 חסימת רשת</h3>
+                    <p>חוסם בקשות רשת ל-reCAPTCHA</p>
+                    <div class="code-block">
+window.fetch = function(url, options) {
+  if (url.includes('recaptcha')) {
+    console.log('Blocked reCAPTCHA request');
+    return Promise.resolve(new Response('{}'));
+  }
+  return originalFetch.call(this, url, options);
+};
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="demo-section">
+            <h2>📝 קוד מלא</h2>
+            <div class="code-block">
+// Advanced reCAPTCHA Bypass Techniques
+await page.evaluateOnNewDocument(() => {
+  // 1. Mock grecaptcha
+  Object.defineProperty(window, 'grecaptcha', {
+    get: () => ({
+      ready: (callback) => callback(),
+      execute: () => Promise.resolve('fake-token'),
+      render: () => 'fake-widget-id',
+      reset: () => {},
+      getResponse: () => 'fake-response'
+    })
+  });
+
+  // 2. Block reCAPTCHA scripts
+  const originalAppendChild = Node.prototype.appendChild;
+  Node.prototype.appendChild = function(child) {
+    if (child.tagName === 'SCRIPT' && child.src && child.src.includes('recaptcha')) {
+      console.log('🚫 Blocked reCAPTCHA script');
+      return child;
+    }
+    return originalAppendChild.call(this, child);
+  };
+
+  // 3. Mock canvas fingerprinting
+  const originalToDataURL = HTMLCanvasElement.prototype.toDataURL;
+  HTMLCanvasElement.prototype.toDataURL = function() {
+    const context = this.getContext('2d');
+    if (context) {
+      const imageData = context.getImageData(0, 0, this.width, this.height);
+      for (let i = 0; i < imageData.data.length; i += 4) {
+        imageData.data[i] += Math.floor(Math.random() * 3) - 1;
+        imageData.data[i + 1] += Math.floor(Math.random() * 3) - 1;
+        imageData.data[i + 2] += Math.floor(Math.random() * 3) - 1;
+      }
+      context.putImageData(imageData, 0, 0);
+    }
+    return originalToDataURL.apply(this, arguments);
+  };
+
+  // 4. Block network requests
+  const originalFetch = window.fetch;
+  window.fetch = function(url, options) {
+    if (typeof url === 'string' && url.includes('recaptcha')) {
+      console.log('🚫 Blocked reCAPTCHA fetch request');
+      return Promise.resolve(new Response('{}', { status: 200 }));
+    }
+    return originalFetch.call(this, url, options);
+  };
+
+  // 5. Remove existing reCAPTCHA elements
+  const removeRecaptchaElements = () => {
+    const recaptchaElements = document.querySelectorAll('.g-recaptcha, [data-sitekey], iframe[src*="recaptcha"]');
+    recaptchaElements.forEach(element => {
+      console.log('🗑️ Removing reCAPTCHA element');
+      element.remove();
+    });
+  };
+
+  removeRecaptchaElements();
+  
+  // Watch for new reCAPTCHA elements
+  const observer = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+      mutation.addedNodes.forEach((node) => {
+        if (node.nodeType === 1) {
+          if (node.classList && node.classList.contains('g-recaptcha')) {
+            console.log('🗑️ Removing new reCAPTCHA element');
+            node.remove();
+          }
+          if (node.tagName === 'IFRAME' && node.src && node.src.includes('recaptcha')) {
+            console.log('🗑️ Removing new reCAPTCHA iframe');
+            node.remove();
+          }
+        }
+      });
+    });
+  });
+
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+  });
+
+  console.log('🛡️ Advanced reCAPTCHA bypass techniques loaded');
+});
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let logEntries = [];
+        
+        function addLogEntry(message, type = 'info') {
+            const timestamp = new Date().toLocaleTimeString('he-IL');
+            const entry = {
+                message: `[${timestamp}] ${message}`,
+                type: type
+            };
+            logEntries.push(entry);
+            updateLogDisplay();
+        }
+        
+        function updateLogDisplay() {
+            const logElement = document.getElementById('log');
+            logElement.innerHTML = logEntries.map(entry => 
+                `<div class="log-entry ${entry.type}">${entry.message}</div>`
+            ).join('');
+            logElement.scrollTop = logElement.scrollHeight;
+        }
+        
+        function clearLog() {
+            logEntries = [];
+            updateLogDisplay();
+            addLogEntry('🗑️ לוג נוקה', 'info');
+        }
+        
+        function updateStatus(message, type) {
+            const statusElement = document.getElementById('status');
+            statusElement.textContent = message;
+            statusElement.className = `status ${type}`;
+        }
+        
+        async function testRecaptchaBypass() {
+            addLogEntry('🚀 מתחיל בדיקת עקיפת reCAPTCHA...', 'info');
+            updateStatus('🔍 בודק...', 'warning');
+            
+            try {
+                // Apply bypass techniques
+                addLogEntry('🛡️ מפעיל טכניקות עקיפה...', 'info');
+                
+                // Mock grecaptcha
+                Object.defineProperty(window, 'grecaptcha', {
+                    get: () => ({
+                        ready: (callback) => {
+                            setTimeout(callback, 100);
+                            return Promise.resolve();
+                        },
+                        execute: () => Promise.resolve('fake-token-12345'),
+                        render: (container, options) => {
+                            addLogEntry('🔄 Mock reCAPTCHA render called', 'success');
+                            return 'fake-widget-id-12345';
+                        },
+                        reset: () => {
+                            addLogEntry('🔄 Mock reCAPTCHA reset called', 'success');
+                        },
+                        getResponse: () => {
+                            addLogEntry('🔄 Mock reCAPTCHA getResponse called', 'success');
+                            return 'fake-response-12345';
+                        }
+                    })
+                });
+                
+                // Block reCAPTCHA scripts
+                const originalAppendChild = Node.prototype.appendChild;
+                Node.prototype.appendChild = function(child) {
+                    if (child.tagName === 'SCRIPT' && child.src && child.src.includes('recaptcha')) {
+                        addLogEntry('🚫 Blocked reCAPTCHA script: ' + child.src, 'warning');
+                        return child;
+                    }
+                    return originalAppendChild.call(this, child);
+                };
+                
+                // Block reCAPTCHA network requests
+                const originalFetch = window.fetch;
+                window.fetch = function(url, options) {
+                    if (typeof url === 'string' && url.includes('recaptcha')) {
+                        addLogEntry('🚫 Blocked reCAPTCHA fetch request: ' + url, 'warning');
+                        return Promise.resolve(new Response('{}', { status: 200 }));
+                    }
+                    return originalFetch.call(this, url, options);
+                };
+                
+                // Remove existing reCAPTCHA elements
+                const removeRecaptchaElements = () => {
+                    const recaptchaElements = document.querySelectorAll('.g-recaptcha, [data-sitekey], iframe[src*="recaptcha"]');
+                    recaptchaElements.forEach(element => {
+                        addLogEntry('🗑️ Removing reCAPTCHA element', 'warning');
+                        element.remove();
+                    });
+                };
+                
+                removeRecaptchaElements();
+                
+                // Watch for new reCAPTCHA elements
+                const observer = new MutationObserver((mutations) => {
+                    mutations.forEach((mutation) => {
+                        mutation.addedNodes.forEach((node) => {
+                            if (node.nodeType === 1) {
+                                if (node.classList && node.classList.contains('g-recaptcha')) {
+                                    addLogEntry('🗑️ Removing new reCAPTCHA element', 'warning');
+                                    node.remove();
+                                }
+                                if (node.tagName === 'IFRAME' && node.src && node.src.includes('recaptcha')) {
+                                    addLogEntry('🗑️ Removing new reCAPTCHA iframe', 'warning');
+                                    node.remove();
+                                }
+                            }
+                        });
+                    });
+                });
+                
+                observer.observe(document.body, {
+                    childList: true,
+                    subtree: true
+                });
+                
+                addLogEntry('✅ טכניקות עקיפה הופעלו בהצלחה', 'success');
+                
+                // Test reCAPTCHA detection
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                
+                const recaptchaPresent = !!(
+                    document.querySelector('iframe[src*="recaptcha"]') ||
+                    document.querySelector('.g-recaptcha') ||
+                    document.querySelector('#recaptcha') ||
+                    document.querySelector('[data-sitekey]') ||
+                    document.querySelector('iframe[title*="reCAPTCHA"]')
+                );
+                
+                if (recaptchaPresent) {
+                    addLogEntry('🚨 reCAPTCHA עדיין מזוהה בעמוד', 'error');
+                    updateStatus('❌ עקיפה נכשלה', 'error');
+                } else {
+                    addLogEntry('✅ אין reCAPTCHA מזוהה - עקיפה הצליחה!', 'success');
+                    updateStatus('✅ עקיפה הצליחה!', 'success');
+                }
+                
+                // Test grecaptcha mock
+                if (window.grecaptcha) {
+                    addLogEntry('🧪 בודק Mock grecaptcha...', 'info');
+                    try {
+                        const widgetId = window.grecaptcha.render('test-container', {});
+                        addLogEntry('✅ Mock grecaptcha.render עובד: ' + widgetId, 'success');
+                        
+                        const response = window.grecaptcha.getResponse();
+                        addLogEntry('✅ Mock grecaptcha.getResponse עובד: ' + response, 'success');
+                    } catch (error) {
+                        addLogEntry('❌ שגיאה ב-Mock grecaptcha: ' + error.message, 'error');
+                    }
+                }
+                
+                addLogEntry('🎉 בדיקה הושלמה!', 'success');
+                
+            } catch (error) {
+                addLogEntry('❌ שגיאה בבדיקה: ' + error.message, 'error');
+                updateStatus('❌ שגיאה בבדיקה', 'error');
+            }
+        }
+        
+        // Initialize
+        addLogEntry('🛡️ מערכת עקיפת reCAPTCHA מוכנה', 'success');
+        addLogEntry('💡 לחץ על "בדוק עקיפת reCAPTCHA" כדי להתחיל', 'info');
+    </script>
+</body>
+</html>

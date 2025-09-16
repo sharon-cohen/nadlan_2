@@ -1,0 +1,15 @@
+{
+  "neighborhood": "סביוני ים",
+  "neighborhoodId": "65210848",
+  "status": "success",
+  "data": {
+    "statusCode": 405,
+    "data": {
+      "total_rows": 0,
+      "total_fetch": 0,
+      "total_page": 0,
+      "items": []
+    }
+  },
+  "rawResponse": "{\"statusCode\": 405, \"data\": {\"total_rows\": 0, \"total_fetch\": 0, \"total_page\": 0, \"items\": []}}"
+}

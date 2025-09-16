@@ -1,0 +1,263 @@
+councils-with-folders
+councils-with-folders/כפר סבא
+councils-with-folders/כפר סבא/עלייה
+councils-with-folders/כפר סבא/גבעת אשכול
+councils-with-folders/כפר סבא/סירקין
+councils-with-folders/כפר סבא/ראשונים
+councils-with-folders/מעלות-תרשיחא
+councils-with-folders/עפולה
+councils-with-folders/עפולה/אזור תעשיה ב
+councils-with-folders/עפולה/רובע יזרעאל סביוני
+councils-with-folders/עפולה/אזור תעשיה ג
+councils-with-folders/עפולה/עפולה דרום-מערב
+councils-with-folders/עפולה/עפולה הצעירה
+councils-with-folders/עפולה/גבעת המורה
+councils-with-folders/פתח תקווה
+councils-with-folders/פתח תקווה/כפר הבפטיסטים
+councils-with-folders/באר יעקב
+councils-with-folders/נוף הגליל
+councils-with-folders/נוף הגליל/ספיר
+councils-with-folders/נוף הגליל/אזור תעשיה ג
+councils-with-folders/נוף הגליל/פינת עדן
+councils-with-folders/נוף הגליל/בן גוריון
+councils-with-folders/נוף הגליל/שלום
+councils-with-folders/נוף הגליל/צפונית
+councils-with-folders/טבריה
+councils-with-folders/טבריה/פאר
+councils-with-folders/באר שבע
+councils-with-folders/באר שבע/בית חולים סורוקה
+councils-with-folders/מודיעין עילית
+councils-with-folders/מודיעין עילית/נאות הפיסגה
+councils-with-folders/מודיעין עילית/קרית ספר
+councils-with-folders/בני ברק
+councils-with-folders/אשקלון
+councils-with-folders/אשקלון/פארק תעשיה היי טק
+councils-with-folders/אשקלון/באר גנים
+councils-with-folders/דימונה
+councils-with-folders/דימונה/קהילת העבריים
+councils-with-folders/חולון
+councils-with-folders/חולון/מולדת - דרום חולון
+councils-with-folders/גני תקווה
+councils-with-folders/קרית אונו
+councils-with-folders/קרית אונו/פסגת אונו
+councils-with-folders/קרית אונו/שיכון רסקו
+councils-with-folders/קרית אונו/אונו הירוקה
+councils-with-folders/קרית אונו/רימון
+councils-with-folders/קרית אונו/עבר הירדן
+councils-with-folders/קרית אונו/קיראון
+councils-with-folders/קרית אונו/גני אילן
+councils-with-folders/קרית אונו/פרדס ריספלד
+councils-with-folders/גבעתיים
+councils-with-folders/אילת
+councils-with-folders/שדרות
+councils-with-folders/שדרות/נאות הנביאים
+councils-with-folders/שדרות/נאות אביב
+councils-with-folders/שדרות/נאות הדקל
+councils-with-folders/שדרות/נאות אשכול
+councils-with-folders/שדרות/אזור תעשיה
+councils-with-folders/מגדל העמק
+councils-with-folders/מגדל העמק/פנינת העמק
+councils-with-folders/מגדל העמק/אזור תעשיה דרום
+councils-with-folders/מגדל העמק/מצפה העמק
+councils-with-folders/מגדל העמק/קרית רבין
+councils-with-folders/מגדל העמק/פנחס ספיר
+councils-with-folders/מגדל העמק/אזור תעשיה רמת גבר
+councils-with-folders/מגדל העמק/גן ישראל
+councils-with-folders/מגדל העמק/יערת העמק
+councils-with-folders/מגדל העמק/אזור תעשיה שגיא 2000
+councils-with-folders/מגדל העמק/נוף העמק
+councils-with-folders/עראבה
+councils-with-folders/רמת גן
+councils-with-folders/רמת גן/חרוזים
+councils-with-folders/מעלה אדומים
+councils-with-folders/מעלה אדומים/המצדים
+councils-with-folders/מעלה אדומים/מצפה נבו
+councils-with-folders/מעלה אדומים/אבני החושן
+councils-with-folders/מעלה אדומים/צמח השדה
+councils-with-folders/מעלה אדומים/נופי סלע
+councils-with-folders/קרית ים
+councils-with-folders/קרית ים/פסגות ים
+councils-with-folders/קרית ים/קריית ים ב
+councils-with-folders/קרית ים/אלמוגים
+councils-with-folders/קרית ים/קריית ים ד
+councils-with-folders/קרית ים/קריית ים ג
+councils-with-folders/ירושלים
+councils-with-folders/ירושלים/רמת שרת
+councils-with-folders/ירושלים/הרובע המוסלמי
+councils-with-folders/ירושלים/הר המנוחות
+councils-with-folders/ירושלים/קריית הממשלה - קריי
+councils-with-folders/ירושלים/גבעת שאול
+councils-with-folders/ירושלים/כרם אברהם
+councils-with-folders/ירושלים/הבוכרים
+councils-with-folders/צפת
+councils-with-folders/צפת/מצפה האגם
+councils-with-folders/צפת/גני הדר
+councils-with-folders/צפת/רמת מנחם בגין
+councils-with-folders/צפת/דרום
+councils-with-folders/גבעת שמואל
+councils-with-folders/רמת השרון
+councils-with-folders/רמת השרון/קרית יערים
+councils-with-folders/רמת השרון/נווה גן
+councils-with-folders/רמת השרון/מיתחם גלילות
+councils-with-folders/רמת השרון/הדר
+councils-with-folders/רמת השרון/אלון
+councils-with-folders/רמת השרון/נווה מגן
+councils-with-folders/רמת השרון/נווה רסקו
+councils-with-folders/רמת השרון/גולן
+councils-with-folders/רמת השרון/הכפר הירוק
+councils-with-folders/טייבה
+councils-with-folders/טייבה/אלקסארה
+councils-with-folders/טייבה/ואד חמדאן
+councils-with-folders/יבנה
+councils-with-folders/רמלה
+councils-with-folders/רמלה/השופטים
+councils-with-folders/רמלה/בילו
+councils-with-folders/רמלה/משכנות
+councils-with-folders/רמלה/גני דן
+councils-with-folders/רמלה/מכבי
+councils-with-folders/רמלה/אזור מסחר ותעסוקה ב
+councils-with-folders/רמלה/נווה יהונתן
+councils-with-folders/רמלה/קריית מנחם בגין
+councils-with-folders/רמלה/וייצמן
+councils-with-folders/רמלה/שפרינצק
+councils-with-folders/רמלה/גיורא
+councils-with-folders/רמלה/פארק עופר
+councils-with-folders/רמלה/העיר העתיקה
+councils-with-folders/רמלה/קרית האומנים
+councils-with-folders/רמלה/ג'ואריש
+councils-with-folders/רמלה/רמלה מערב
+councils-with-folders/רמלה/נאות יצחק רבין
+councils-with-folders/רמלה/רמת דן
+councils-with-folders/רמלה/אשכול
+councils-with-folders/רמלה/בן גוריון
+councils-with-folders/רמלה/העיר העתיקה - מזרח
+councils-with-folders/אשדוד
+councils-with-folders/אשדוד/רובע מיוחד
+councils-with-folders/אשדוד/רובע טז
+councils-with-folders/נשר
+councils-with-folders/נשר/גבעת נשר
+councils-with-folders/נשר/אזור תעשיה
+councils-with-folders/נשר/תל חנן
+councils-with-folders/אלעד
+councils-with-folders/מודיעין-מכבים-רעות
+councils-with-folders/מודיעין-מכבים-רעות/הכרמים
+councils-with-folders/מודיעין-מכבים-רעות/הנביאים
+councils-with-folders/מודיעין-מכבים-רעות/מרכז עינב
+councils-with-folders/מודיעין-מכבים-רעות/מוריה
+councils-with-folders/מודיעין-מכבים-רעות/נופים
+councils-with-folders/מודיעין-מכבים-רעות/מורשת - תכנון בעתיד
+councils-with-folders/מודיעין-מכבים-רעות/המגינים
+councils-with-folders/מודיעין-מכבים-רעות/גבעת שר - תכנון בעתי
+councils-with-folders/מודיעין-מכבים-רעות/משואה
+councils-with-folders/מודיעין-מכבים-רעות/מכבים
+councils-with-folders/אופקים
+councils-with-folders/רהט
+councils-with-folders/רהט/אל פיניש 28
+councils-with-folders/רהט/11
+councils-with-folders/רהט/17
+councils-with-folders/רהט/אל ג'לאווי 15
+councils-with-folders/רהט/38
+councils-with-folders/רהט/31
+councils-with-folders/רהט/אל קסאסי וא טורי 29
+councils-with-folders/רהט/24
+councils-with-folders/רהט/4
+councils-with-folders/רהט/3
+councils-with-folders/רהט/12
+councils-with-folders/רהט/13
+councils-with-folders/עכו
+councils-with-folders/עכו/אברהם דנינו, בן גיר
+councils-with-folders/עכו/נאות ים
+councils-with-folders/עכו/העיר העתיקה
+councils-with-folders/עכו/מרכז העיר
+councils-with-folders/עכו/צפון הכרם
+councils-with-folders/רעננה
+councils-with-folders/רעננה/לסטר
+councils-with-folders/רעננה/לסטר_רבוצקי
+councils-with-folders/הוד השרון
+councils-with-folders/נתיבות
+councils-with-folders/נתיבות/החורש
+councils-with-folders/נתיבות/קרית משה
+councils-with-folders/נתיבות/לוי אשכול
+councils-with-folders/נתיבות/קרית מנחם בגין
+councils-with-folders/נתיבות/בבא סאלי
+councils-with-folders/יקנעם עילית
+councils-with-folders/חדרה
+councils-with-folders/ראשון לציון
+councils-with-folders/נהריה
+councils-with-folders/נהריה/גבעת אוסישקין
+councils-with-folders/נהריה/מרכז העיר
+councils-with-folders/נהריה/נווה יצחק רבין - נהר
+councils-with-folders/נהריה/גבעת כצנלסון
+councils-with-folders/נהריה/רסקו חקלאית
+councils-with-folders/נהריה/נווה מנחם בגין
+councils-with-folders/נהריה/עין שרה
+councils-with-folders/נס ציונה
+councils-with-folders/נס ציונה/כפר אהרון הישנה
+councils-with-folders/נס ציונה/רמת בן צבי
+councils-with-folders/נס ציונה/עמידר
+councils-with-folders/נס ציונה/שמורת מליבו
+councils-with-folders/נס ציונה/וואלי
+councils-with-folders/נס ציונה/וילה דורי
+councils-with-folders/נס ציונה/רמת סמל
+councils-with-folders/נס ציונה/טירת שלום
+councils-with-folders/נס ציונה/גבעת האירוסים
+councils-with-folders/נס ציונה/גבעת מיכאל
+councils-with-folders/קלנסווה
+councils-with-folders/בת ים
+councils-with-folders/תל אביב - יפו
+councils-with-folders/תל אביב - יפו/תל כביר_נווה עופר_י
+councils-with-folders/תל אביב - יפו/גאולה
+councils-with-folders/בית שמש
+councils-with-folders/הרצליה
+councils-with-folders/קרית ביאליק
+councils-with-folders/קרית ביאליק/פרפר
+councils-with-folders/קרית ביאליק/צור שלום
+councils-with-folders/קרית ביאליק/מרכז העיר
+councils-with-folders/קרית ביאליק/אזור תעשיה קרית ביא
+councils-with-folders/קרית ביאליק/אפק
+councils-with-folders/קרית ביאליק/דרום
+councils-with-folders/טירת כרמל
+councils-with-folders/טירת כרמל/שזר
+councils-with-folders/טירת כרמל/שזר/דקר
+councils-with-folders/מגאר
+councils-with-folders/כרמיאל
+councils-with-folders/כרמיאל/קרית פסטיבל המחול
+councils-with-folders/כרמיאל/אשכול
+councils-with-folders/ערד
+councils-with-folders/כפר יונה
+councils-with-folders/כפר יונה/שיכון חדש
+councils-with-folders/יהוד-מונוסון
+councils-with-folders/קרית גת
+councils-with-folders/קרית גת/שער הדרום
+councils-with-folders/קרית גת/הקוממיות
+councils-with-folders/קרית גת/הנביאים
+councils-with-folders/קרית גת/פז
+councils-with-folders/קרית גת/בני ישראל
+councils-with-folders/קרית גת/רמות דוד
+councils-with-folders/קרית גת/גליקסון
+councils-with-folders/קרית גת/אזור המלאכה
+councils-with-folders/קרית גת/ההעפלה
+councils-with-folders/קרית גת/הפרחים
+councils-with-folders/קרית גת/צהל
+councils-with-folders/בית שאן
+councils-with-folders/ראש העין
+councils-with-folders/ביתר עילית
+councils-with-folders/קרית מלאכי
+councils-with-folders/חיפה
+councils-with-folders/חיפה/אוניברסיטת חיפה
+councils-with-folders/חיפה/נמל חיפה
+councils-with-folders/חיפה/הוד הכרמל-דניה
+councils-with-folders/חיפה/אזור הקישון
+councils-with-folders/חיפה/רמת הנשיא
+councils-with-folders/חיפה/רמת הנשיא/רמת חביב
+councils-with-folders/אור יהודה
+councils-with-folders/אור יהודה/שפרינצק
+councils-with-folders/אור עקיבא
+councils-with-folders/קרית מוצקין
+councils-with-folders/קרית מוצקין/מוצקין הותיקה
+councils-with-folders/קרית מוצקין/משכנות אמנים
+councils-with-folders/רחובות
+councils-with-folders/נתניה
+councils-with-folders/לוד
+councils-with-folders/קרית אתא
+councils-with-folders/קרית אתא/נווה חן

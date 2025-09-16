@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-09-07T12:12:48.181Z",
+  "citiesProcessed": 2,
+  "totalNeighborhoods": 19,
+  "missingNeighborhoods": 0,
+  "successful": 0,
+  "failed": 0,
+  "results": [],
+  "errors": []
+}

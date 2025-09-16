@@ -1,0 +1,9 @@
+{
+  "statusCode": 200,
+  "data": {
+    "total_rows": 0,
+    "total_fetch": 0,
+    "total_page": 0,
+    "items": []
+  }
+}

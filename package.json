@@ -1,0 +1,35 @@
+{
+  "name": "nadlan-deals-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Nadlan real estate deals data",
+  "main": "nadlan_puppeteer_stealth.js",
+  "scripts": {
+    "start": "node nadlan_puppeteer_stealth.js",
+    "scrape": "node nadlan_puppeteer_stealth.js",
+    "test": "node nadlan_puppeteer_stealth.js"
+  },
+  "dependencies": {
+    "2captcha": "^3.0.5-2",
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "playwright": "^1.55.0",
+    "puppeteer": "^24.19.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "selenium-webdriver": "^4.35.0"
+  },
+  "keywords": [
+    "scraper",
+    "real-estate",
+    "nadlan",
+    "israel",
+    "data-extraction"
+  ],
+  "author": "Nadlan Data Scraper",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
