@@ -41,7 +41,7 @@ class DealCleaner {
     return true;
   }
 
-  // Clean a single deals CSV file
+  // Clean a single deals CSV file and create a new clean file
   cleanDealsFile(filePath) {
     try {
       console.log(`🔍 Processing: ${filePath}`);
@@ -71,13 +71,15 @@ class DealCleaner {
         }
       }
 
-      // Write cleaned content back to file
+      // Create new clean file with _clean suffix
+      const cleanFilePath = filePath.replace("_deals.csv", "_deals_clean.csv");
       const cleanedContent = [header, ...keptLines].join("\n");
-      fs.writeFileSync(filePath, cleanedContent, "utf8");
+      fs.writeFileSync(cleanFilePath, cleanedContent, "utf8");
 
       console.log(
-        `  ✅ Cleaned: ${removedCount} removed, ${keptLines.length} kept`
+        `  ✅ Created clean file: ${removedCount} removed, ${keptLines.length} kept`
       );
+      console.log(`  📄 Clean file saved as: ${cleanFilePath}`);
 
       return { removed: removedCount, kept: keptLines.length };
     } catch (error) {

@@ -53,3 +53,11 @@ console.log(`\n🎉 Finished creating folders for ${cities.length} cities!`);
 
 
 
+
+
+
+
+
+
+
+
