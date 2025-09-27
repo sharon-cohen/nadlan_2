@@ -1,8 +1,8 @@
-Area Name,Area ID,Type,מחיר למר
-"אזור תעשיה","65209732","Neighborhood",
-"בן דור","65209733","Neighborhood",
-"רמות יצחק","65209880","Neighborhood",
-"גבעת עמוס","65210952","Neighborhood",
-"תל חנן","65210953","Neighborhood",
-"עמק הכרמל","65210954","Neighborhood",
-"גבעת נשר","65210955","Neighborhood",
+Area Name,שם העיר,שם השכונה,Area ID,Type,מחיר למר
+אזור תעשיה,נשר,כל העיר,65209732,Neighborhood,
+בן דור,נשר,כל העיר,65209733,Neighborhood,
+רמות יצחק,נשר,כל העיר,65209880,Neighborhood,
+גבעת עמוס,נשר,כל העיר,65210952,Neighborhood,
+תל חנן,נשר,כל העיר,65210953,Neighborhood,
+עמק הכרמל,נשר,כל העיר,65210954,Neighborhood,
+גבעת נשר,נשר,כל העיר,65210955,Neighborhood,

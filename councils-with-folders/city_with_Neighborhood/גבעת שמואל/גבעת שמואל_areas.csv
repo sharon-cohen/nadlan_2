@@ -1,7 +1,7 @@
-Area Name,Area ID,Type,מחיר למר
-"רמת הדקלים","65211095","Neighborhood",
-"השחר","65211096","Neighborhood",
-"רמת אילן","65211097","Neighborhood",
-"גיורא","65211098","Neighborhood",
-"הותיקה","65211099","Neighborhood",
-"רמת הדר","65211100","Neighborhood",
+Area Name,שם העיר,שם השכונה,Area ID,Type,מחיר למר
+רמת הדקלים,גבעת שמואל,כל העיר,65211095,Neighborhood,
+השחר,גבעת שמואל,כל העיר,65211096,Neighborhood,
+רמת אילן,גבעת שמואל,כל העיר,65211097,Neighborhood,
+גיורא,גבעת שמואל,כל העיר,65211098,Neighborhood,
+הותיקה,גבעת שמואל,כל העיר,65211099,Neighborhood,
+רמת הדר,גבעת שמואל,כל העיר,65211100,Neighborhood,

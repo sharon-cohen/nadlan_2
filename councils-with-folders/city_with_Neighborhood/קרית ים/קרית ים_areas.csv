@@ -1,9 +1,9 @@
-Area Name,Area ID,Type,מחיר למר
-"קריית ים ד","65210847","Neighborhood",
-"סביוני ים","65210848","Neighborhood",
-"אלמוגים","65210849","Neighborhood",
-"בנה ביתך","65210850","Neighborhood",
-"פסגות ים","65210851","Neighborhood",
-"א","65210877","Neighborhood",
-"קריית ים ב","65210878","Neighborhood",
-"קריית ים ג","65210879","Neighborhood",
+Area Name,שם העיר,שם השכונה,Area ID,Type,מחיר למר
+קריית ים ד,קרית ים,כל העיר,65210847,Neighborhood,
+סביוני ים,קרית ים,כל העיר,65210848,Neighborhood,
+אלמוגים,קרית ים,כל העיר,65210849,Neighborhood,
+בנה ביתך,קרית ים,כל העיר,65210850,Neighborhood,
+פסגות ים,קרית ים,כל העיר,65210851,Neighborhood,
+א,קרית ים,כל העיר,65210877,Neighborhood,
+קריית ים ב,קרית ים,כל העיר,65210878,Neighborhood,
+קריית ים ג,קרית ים,כל העיר,65210879,Neighborhood,

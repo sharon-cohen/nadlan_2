@@ -1,9 +1,9 @@
-Area Name,Area ID,Type,מחיר למר
-"גבעת אלונים","65210610","Neighborhood",
-"נוף הדר","65210611","Neighborhood",
-"נווה ניצנים","65210612","Neighborhood",
-"בנה ביתך","65210613","Neighborhood",
-"הצבאית","65210614","Neighborhood",
-"שיכון א","65210615","Neighborhood",
-"שיכון ב","65210616","Neighborhood",
-"שיכון חדש","65210617","Neighborhood",
+Area Name,שם העיר,שם השכונה,Area ID,Type,מחיר למר
+גבעת אלונים,כפר יונה,כל העיר,65210610,Neighborhood,
+נוף הדר,כפר יונה,כל העיר,65210611,Neighborhood,
+נווה ניצנים,כפר יונה,כל העיר,65210612,Neighborhood,
+בנה ביתך,כפר יונה,כל העיר,65210613,Neighborhood,
+הצבאית,כפר יונה,כל העיר,65210614,Neighborhood,
+שיכון א,כפר יונה,כל העיר,65210615,Neighborhood,
+שיכון ב,כפר יונה,כל העיר,65210616,Neighborhood,
+שיכון חדש,כפר יונה,כל העיר,65210617,Neighborhood,

@@ -1,6 +1,6 @@
-Area Name,Area ID,Type,מחיר למר
-"הגפן","65210731","Neighborhood",
-"התמר","65210480","Neighborhood",
-"הדס","65210481","Neighborhood",
-"הדקל","65210482","Neighborhood",
-"האתרוג","65210483","Neighborhood",
+Area Name,שם העיר,שם השכונה,Area ID,Type,מחיר למר
+הגפן,ביתר עילית,כל העיר,65210731,Neighborhood,
+התמר,ביתר עילית,כל העיר,65210480,Neighborhood,
+הדס,ביתר עילית,כל העיר,65210481,Neighborhood,
+הדקל,ביתר עילית,כל העיר,65210482,Neighborhood,
+האתרוג,ביתר עילית,כל העיר,65210483,Neighborhood,

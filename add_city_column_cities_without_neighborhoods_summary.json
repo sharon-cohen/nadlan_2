@@ -1,0 +1,1004 @@
+{
+  "timestamp": "2025-09-27T17:51:13.479Z",
+  "totalCities": 15,
+  "totalFiles": 142,
+  "processedFiles": 129,
+  "totalRecords": 8724,
+  "newColumn": "שם העיר",
+  "results": [
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2015/אום אל-פחם_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2016/אום אל-פחם_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 5,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2018/אום אל-פחם_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2019/אום אל-פחם_city_deals_clean_year_no_quotes_2019.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 7,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2020/אום אל-פחם_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 8,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2021/אום אל-פחם_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 6,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2022/אום אל-פחם_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 14,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2023/אום אל-פחם_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 9,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2024/אום אל-פחם_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 6,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/2025/אום אל-פחם_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אום אל-פחם/אום אל-פחם_city_deals_clean_year_no_quotes.csv",
+      "city": "אום אל-פחם",
+      "processed": true,
+      "recordCount": 65,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2015/אריאל_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2016/אריאל_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 85,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2017/אריאל_city_deals_clean_year_no_quotes_2017.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 96,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2018/אריאל_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 113,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2019/אריאל_city_deals_clean_year_no_quotes_2019.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 111,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2020/אריאל_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 91,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2021/אריאל_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 144,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2022/אריאל_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 89,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2023/אריאל_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 74,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2024/אריאל_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 57,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/2025/אריאל_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 39,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/אריאל/אריאל_city_deals_clean_year_no_quotes.csv",
+      "city": "אריאל",
+      "processed": true,
+      "recordCount": 905,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2015/באקה אל-גרביה_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2016/באקה אל-גרביה_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 5,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2017/באקה אל-גרביה_city_deals_clean_year_no_quotes_2017.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2018/באקה אל-גרביה_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2019/באקה אל-גרביה_city_deals_clean_year_no_quotes_2019.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2020/באקה אל-גרביה_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2021/באקה אל-גרביה_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 5,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2022/באקה אל-גרביה_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 6,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2023/באקה אל-גרביה_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 9,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2024/באקה אל-גרביה_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 5,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/2025/באקה אל-גרביה_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/באקה אל-גרביה_areas.csv",
+      "city": "באקה אל-גרביה",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/באקה אל-גרביה/באקה אל-גרביה_city_deals_clean_year_no_quotes.csv",
+      "city": "באקה אל-גרביה",
+      "processed": true,
+      "recordCount": 40,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/חריש/2023/חריש_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "חריש",
+      "processed": true,
+      "recordCount": 122,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/חריש/2024/חריש_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "חריש",
+      "processed": true,
+      "recordCount": 495,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/חריש/2025/חריש_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "חריש",
+      "processed": true,
+      "recordCount": 257,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/חריש/חריש_areas.csv",
+      "city": "חריש",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/חריש/חריש_city_deals_clean_year_no_quotes.csv",
+      "city": "חריש",
+      "processed": true,
+      "recordCount": 877,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2016/טירה_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2017/טירה_city_deals_clean_year_no_quotes_2017.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2018/טירה_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2019/טירה_city_deals_clean_year_no_quotes_2019.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2021/טירה_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2022/טירה_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2023/טירה_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/2024/טירה_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/טירה_areas.csv",
+      "city": "טירה",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טירה/טירה_city_deals_clean_year_no_quotes.csv",
+      "city": "טירה",
+      "processed": true,
+      "recordCount": 17,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/2015/טמרה_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/2016/טמרה_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/2020/טמרה_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/2021/טמרה_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/2022/טמרה_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 5,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/2023/טמרה_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/2024/טמרה_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/טמרה_areas.csv",
+      "city": "טמרה",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/טמרה/טמרה_city_deals_clean_year_no_quotes.csv",
+      "city": "טמרה",
+      "processed": true,
+      "recordCount": 17,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2015/כפר קאסם_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2016/כפר קאסם_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 6,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2017/כפר קאסם_city_deals_clean_year_no_quotes_2017.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2018/כפר קאסם_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2020/כפר קאסם_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2021/כפר קאסם_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2022/כפר קאסם_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/2023/כפר קאסם_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/כפר קאסם_areas.csv",
+      "city": "כפר קאסם",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קאסם/כפר קאסם_city_deals_clean_year_no_quotes.csv",
+      "city": "כפר קאסם",
+      "processed": true,
+      "recordCount": 24,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2015/כפר קרע_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2016/כפר קרע_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2018/כפר קרע_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2020/כפר קרע_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2021/כפר קרע_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2022/כפר קרע_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2023/כפר קרע_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2024/כפר קרע_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/2025/כפר קרע_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/כפר קרע_areas.csv",
+      "city": "כפר קרע",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/כפר קרע/כפר קרע_city_deals_clean_year_no_quotes.csv",
+      "city": "כפר קרע",
+      "processed": true,
+      "recordCount": 19,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/מעלות-תרשיחא/2021/מעלות-תרשיחא_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "מעלות-תרשיחא",
+      "processed": true,
+      "recordCount": 50,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/מעלות-תרשיחא/2022/מעלות-תרשיחא_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "מעלות-תרשיחא",
+      "processed": true,
+      "recordCount": 267,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/מעלות-תרשיחא/2023/מעלות-תרשיחא_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "מעלות-תרשיחא",
+      "processed": true,
+      "recordCount": 225,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/מעלות-תרשיחא/2024/מעלות-תרשיחא_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "מעלות-תרשיחא",
+      "processed": true,
+      "recordCount": 153,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/מעלות-תרשיחא/2025/מעלות-תרשיחא_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "מעלות-תרשיחא",
+      "processed": true,
+      "recordCount": 62,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/מעלות-תרשיחא/מעלות-תרשיחא_areas.csv",
+      "city": "מעלות-תרשיחא",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/מעלות-תרשיחא/מעלות-תרשיחא_city_deals_clean_year_no_quotes.csv",
+      "city": "מעלות-תרשיחא",
+      "processed": true,
+      "recordCount": 761,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/נצרת/2021/נצרת_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "נצרת",
+      "processed": true,
+      "recordCount": 121,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/נצרת/2022/נצרת_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "נצרת",
+      "processed": true,
+      "recordCount": 200,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/נצרת/2023/נצרת_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "נצרת",
+      "processed": true,
+      "recordCount": 162,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/נצרת/2024/נצרת_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "נצרת",
+      "processed": true,
+      "recordCount": 157,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/נצרת/2025/נצרת_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "נצרת",
+      "processed": true,
+      "recordCount": 30,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/נצרת/נצרת_areas.csv",
+      "city": "נצרת",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/נצרת/נצרת_city_deals_clean_year_no_quotes.csv",
+      "city": "נצרת",
+      "processed": true,
+      "recordCount": 674,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2015/סח'נין_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2016/סח'נין_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2017/סח'נין_city_deals_clean_year_no_quotes_2017.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2018/סח'נין_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2019/סח'נין_city_deals_clean_year_no_quotes_2019.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2020/סח'נין_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2021/סח'נין_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2022/סח'נין_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/2023/סח'נין_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/סח'נין_areas.csv",
+      "city": "סח'נין",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/סח'נין/סח'נין_city_deals_clean_year_no_quotes.csv",
+      "city": "סח'נין",
+      "processed": true,
+      "recordCount": 16,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2016/עראבה_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2017/עראבה_city_deals_clean_year_no_quotes_2017.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 4,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2018/עראבה_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2019/עראבה_city_deals_clean_year_no_quotes_2019.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2020/עראבה_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2021/עראבה_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2022/עראבה_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2023/עראבה_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/2024/עראבה_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/עראבה_areas.csv",
+      "city": "עראבה",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/עראבה/עראבה_city_deals_clean_year_no_quotes.csv",
+      "city": "עראבה",
+      "processed": true,
+      "recordCount": 16,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קלנסווה/2015/קלנסווה_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "קלנסווה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קלנסווה/2016/קלנסווה_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "קלנסווה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קלנסווה/2018/קלנסווה_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "קלנסווה",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קלנסווה/2020/קלנסווה_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "קלנסווה",
+      "processed": true,
+      "recordCount": 1,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קלנסווה/קלנסווה_areas.csv",
+      "city": "קלנסווה",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קלנסווה/קלנסווה_city_deals_clean_year_no_quotes.csv",
+      "city": "קלנסווה",
+      "processed": true,
+      "recordCount": 6,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קרית שמונה/2021/קרית שמונה_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "קרית שמונה",
+      "processed": true,
+      "recordCount": 193,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קרית שמונה/2022/קרית שמונה_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "קרית שמונה",
+      "processed": true,
+      "recordCount": 271,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קרית שמונה/2023/קרית שמונה_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "קרית שמונה",
+      "processed": true,
+      "recordCount": 222,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קרית שמונה/2024/קרית שמונה_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "קרית שמונה",
+      "processed": true,
+      "recordCount": 70,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קרית שמונה/2025/קרית שמונה_city_deals_clean_year_no_quotes_2025.csv",
+      "city": "קרית שמונה",
+      "processed": true,
+      "recordCount": 105,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קרית שמונה/קרית שמונה_areas.csv",
+      "city": "קרית שמונה",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/קרית שמונה/קרית שמונה_city_deals_clean_year_no_quotes.csv",
+      "city": "קרית שמונה",
+      "processed": true,
+      "recordCount": 864,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2015/שפרעם_city_deals_clean_year_no_quotes_2015.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 3,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2016/שפרעם_city_deals_clean_year_no_quotes_2016.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 6,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2017/שפרעם_city_deals_clean_year_no_quotes_2017.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 10,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2018/שפרעם_city_deals_clean_year_no_quotes_2018.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 5,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2019/שפרעם_city_deals_clean_year_no_quotes_2019.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 7,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2020/שפרעם_city_deals_clean_year_no_quotes_2020.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 10,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2021/שפרעם_city_deals_clean_year_no_quotes_2021.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 10,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2022/שפרעם_city_deals_clean_year_no_quotes_2022.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 8,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2023/שפרעם_city_deals_clean_year_no_quotes_2023.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 6,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/2024/שפרעם_city_deals_clean_year_no_quotes_2024.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 2,
+      "reason": null
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/שפרעם_areas.csv",
+      "city": "שפרעם",
+      "processed": false,
+      "recordCount": 0,
+      "reason": "No data"
+    },
+    {
+      "file": "councils-with-folders/city_without_Neighborhood/שפרעם/שפרעם_city_deals_clean_year_no_quotes.csv",
+      "city": "שפרעם",
+      "processed": true,
+      "recordCount": 65,
+      "reason": null
+    }
+  ]
+}
