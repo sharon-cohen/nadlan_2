@@ -1,0 +1,92 @@
+[
+  {
+    "city": "אום אל-פחם",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "אריאל",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 85,
+    "extracted2017transactions": 96
+  },
+  {
+    "city": "באקה אל-גרביה",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 4
+  },
+  {
+    "city": "חריש",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "טירה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 4
+  },
+  {
+    "city": "טמרה",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "כפר קאסם",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 4
+  },
+  {
+    "city": "כפר קרע",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "מעלות-תרשיחא",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "נצרת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "סח'נין",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "city": "עראבה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 4
+  },
+  {
+    "city": "קלנסווה",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "קרית שמונה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "city": "שפרעם",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 10
+  }
+]

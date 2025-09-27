@@ -1,0 +1,7106 @@
+[
+  {
+    "neighborhood": "אופקים/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אופקים/בן גוריון",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "אופקים/דדו",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "אופקים/הארזים",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "אופקים/הריף",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "אופקים/יעקב מסיקה",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "אופקים/מישור הגפן",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "אור יהודה/ההסתדרות",
+    "extracted2015transactions": 99,
+    "extracted2016transactions": 41,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "אור יהודה/נווה סביון",
+    "extracted2015transactions": 93,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 58
+  },
+  {
+    "neighborhood": "אור יהודה/נווה רבין",
+    "extracted2015transactions": 81,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "אור יהודה/עמידר",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "אור יהודה/קרית גיורא",
+    "extracted2015transactions": 61,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "אור יהודה/רמת פנקס",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אור יהודה/שיכון ממשלתי",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "אור יהודה/שפרינצק",
+    "extracted2015transactions": 31,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "אור עקיבא/אור עקיבא הותיקה",
+    "extracted2015transactions": 70,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "אור עקיבא/אורות",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "אור עקיבא/אזור תעשיה הדרומי",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "אור עקיבא/בן גוריון",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "אור עקיבא/גני אור",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "אור עקיבא/היובל",
+    "extracted2015transactions": 84,
+    "extracted2016transactions": 113,
+    "extracted2017transactions": 149
+  },
+  {
+    "neighborhood": "אור עקיבא/נווה אור",
+    "extracted2015transactions": 190,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "אור עקיבא/נווה אלון",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "אור עקיבא/שזר",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "אילת/אופיר",
+    "extracted2015transactions": 41,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "אילת/אורים",
+    "extracted2015transactions": 56,
+    "extracted2016transactions": 50,
+    "extracted2017transactions": 48
+  },
+  {
+    "neighborhood": "אילת/אזור תעשיה חדש",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אילת/בנה ביתך",
+    "extracted2015transactions": 89,
+    "extracted2016transactions": 74,
+    "extracted2017transactions": 51
+  },
+  {
+    "neighborhood": "אילת/גנים א",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "אילת/גנים ב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אילת/הדקל",
+    "extracted2015transactions": 92,
+    "extracted2016transactions": 46,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "אילת/המלונות",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "אילת/הערבה",
+    "extracted2015transactions": 48,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "אילת/יעלים",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 42,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "אילת/מצפה ים",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "אילת/מרכז העיר",
+    "extracted2015transactions": 61,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "אילת/נווה מדבר",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "אילת/צאלים",
+    "extracted2015transactions": 62,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "אילת/שחמון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/אזור תעשיה כבדה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/אזור תעשיה קלה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/בקמה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/הקריה מער",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/מרינה",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 60,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "אשדוד/עורף הנמל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/רובע א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/רובע ב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/רובע ג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/רובע ד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 66
+  },
+  {
+    "neighborhood": "אשדוד/רובע ה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "אשדוד/רובע ו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/רובע ז",
+    "extracted2015transactions": 84,
+    "extracted2016transactions": 68,
+    "extracted2017transactions": 58
+  },
+  {
+    "neighborhood": "אשדוד/רובע ח",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשדוד/רובע ט",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 50
+  },
+  {
+    "neighborhood": "אשדוד/רובע טו",
+    "extracted2015transactions": 58,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "אשדוד/רובע י",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 42,
+    "extracted2017transactions": 43
+  },
+  {
+    "neighborhood": "אשדוד/רובע יא",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 77
+  },
+  {
+    "neighborhood": "אשדוד/רובע יב",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 80,
+    "extracted2017transactions": 74
+  },
+  {
+    "neighborhood": "אשדוד/רובע יג",
+    "extracted2015transactions": 89,
+    "extracted2016transactions": 66,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "אשדוד/רובע יז",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 41,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "אשדוד/רובע סיטי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 84
+  },
+  {
+    "neighborhood": "אשקלון/אזור תעשיה גבעת ציו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/אזור תעשיה דרומי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/אזור תעשיה צפוני",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/אפרידר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/בן גוריון",
+    "extracted2015transactions": 79,
+    "extracted2016transactions": 55,
+    "extracted2017transactions": 63
+  },
+  {
+    "neighborhood": "אשקלון/ברנע",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "אשקלון/ברנע ב",
+    "extracted2015transactions": 79,
+    "extracted2016transactions": 54,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "אשקלון/גבעת ציון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 451
+  },
+  {
+    "neighborhood": "אשקלון/גולדה",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "אשקלון/גן הורדים",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "אשקלון/גן לאומי אשקלון",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/גני ברנע",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/האגמים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/הנשיא הרצוג",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "אשקלון/הסיטי",
+    "extracted2015transactions": 91,
+    "extracted2016transactions": 114,
+    "extracted2017transactions": 67
+  },
+  {
+    "neighborhood": "אשקלון/ז'בוטינסקי",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "אשקלון/כוכב הצפון",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "אשקלון/מגדל",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "אשקלון/מצפה ברנע",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 73
+  },
+  {
+    "neighborhood": "אשקלון/מרינה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 84
+  },
+  {
+    "neighborhood": "אשקלון/מרכז נפתי",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "אשקלון/מתחם מ-7",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/נאות אשקלון",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "אשקלון/נוה דקלים",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 43
+  },
+  {
+    "neighborhood": "אשקלון/נווה אילן",
+    "extracted2015transactions": 49,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "אשקלון/נווה אלונים",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 41
+  },
+  {
+    "neighborhood": "אשקלון/נווה הדרים",
+    "extracted2015transactions": 64,
+    "extracted2016transactions": 56,
+    "extracted2017transactions": 52
+  },
+  {
+    "neighborhood": "אשקלון/נווה ים",
+    "extracted2015transactions": 50,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "אשקלון/נווה ים ד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/רמת אשכול",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "אשקלון/רמת כרמים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "אשקלון/שקמים",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "באר יעקב/גני מנחם",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "באר יעקב/המושבה",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "באר יעקב/הרצל",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "באר יעקב/חוטר",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "באר יעקב/חתני פרס ישראל",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "באר יעקב/ליכטנשטיין",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "באר יעקב/נאות גנים",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "באר יעקב/נווה דורון",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר יעקב/פארק המושבה",
+    "extracted2015transactions": 87,
+    "extracted2016transactions": 65,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "באר יעקב/רדיסו סיטי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר יעקב/רמבם",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "באר יעקב/תלמי מנשה",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "באר שבע/א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 92
+  },
+  {
+    "neighborhood": "באר שבע/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "באר שבע/ב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/ג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/ד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/ה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/ו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/ט",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/יא",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/מרכז אזרחי",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 50,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "באר שבע/נאות לון",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "באר שבע/נווה זאב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/נווה מנחם",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/נווה נוי",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "באר שבע/נחל בקע",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "באר שבע/עיר עתיקה",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 65,
+    "extracted2017transactions": 58
+  },
+  {
+    "neighborhood": "באר שבע/עמק שרה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/פלח שבע",
+    "extracted2015transactions": 88,
+    "extracted2016transactions": 81,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "באר שבע/קרית יהודית",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "באר שבע/רמות",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 48
+  },
+  {
+    "neighborhood": "באר שבע/רמות הרכס",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בית שאן/מרכז העיר",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "בית שאן/נווה נחל",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "בית שאן/נוף גנים",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "בית שאן/נוף הגלבוע",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "בית שאן/נוף הגלעד",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "בית שאן/נוף הירדן",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "בית שאן/נוף קדומים",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "בית שאן/נוף שאן",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "בית שאן/קרית רבין",
+    "extracted2015transactions": 81,
+    "extracted2016transactions": 101,
+    "extracted2017transactions": 112
+  },
+  {
+    "neighborhood": "בית שמש/אזור תעשיה ברוש",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בית שמש/אזור תעשיה צפוני",
+    "extracted2015transactions": 122,
+    "extracted2016transactions": 122,
+    "extracted2017transactions": 56
+  },
+  {
+    "neighborhood": "בית שמש/בית ומנוחה",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "בית שמש/גבעת סביון",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "בית שמש/גבעת שרת",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "בית שמש/מרכז העיר",
+    "extracted2015transactions": 81,
+    "extracted2016transactions": 47,
+    "extracted2017transactions": 43
+  },
+  {
+    "neighborhood": "בית שמש/נווה ספיר",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 28
+  },
+  {
+    "neighborhood": "בית שמש/נופי אביב",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "בית שמש/פסגת השבע",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "בית שמש/קנה הבושם",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 51
+  },
+  {
+    "neighborhood": "בית שמש/קרית אריה שיינפלד",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "בית שמש/קרית בן אליעזר",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "בית שמש/רמת בית שמש א",
+    "extracted2015transactions": 84,
+    "extracted2016transactions": 106,
+    "extracted2017transactions": 84
+  },
+  {
+    "neighborhood": "בית שמש/רמת בית שמש ב",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "בית שמש/רמת בית שמש ג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בית שמש/רמת נריה",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 53
+  },
+  {
+    "neighborhood": "בית שמש/שזר",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "ביתר עילית/האתרוג",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "ביתר עילית/הגפן",
+    "extracted2015transactions": 47,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "ביתר עילית/הדס",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "ביתר עילית/הדקל",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "ביתר עילית/התמר",
+    "extracted2015transactions": 56,
+    "extracted2016transactions": 103,
+    "extracted2017transactions": 82
+  },
+  {
+    "neighborhood": "בני ברק/אהרונוביץ- סוקולוב",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 79,
+    "extracted2017transactions": 57
+  },
+  {
+    "neighborhood": "בני ברק/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בני ברק/אזור תעשיה צפון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "בני ברק/גבעת סוקולוב",
+    "extracted2015transactions": 41,
+    "extracted2016transactions": 69,
+    "extracted2017transactions": 68
+  },
+  {
+    "neighborhood": "בני ברק/גבעת רוקח",
+    "extracted2015transactions": 84,
+    "extracted2016transactions": 56,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "בני ברק/הפועל המזרחי א",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "בני ברק/הפועל המזרחי ד",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "בני ברק/הר שלום",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 233
+  },
+  {
+    "neighborhood": "בני ברק/נוה אחיעזר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בני ברק/נחלת שמעון",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 89,
+    "extracted2017transactions": 70
+  },
+  {
+    "neighborhood": "בני ברק/פרדס כץ",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בני ברק/קרית הישיבה",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "בני ברק/קרית הרצוג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 59
+  },
+  {
+    "neighborhood": "בני ברק/קרית ויז'ניץ",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 38
+  },
+  {
+    "neighborhood": "בני ברק/קרית נדבורנא",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "בני ברק/רמת אהרון",
+    "extracted2015transactions": 57,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 47
+  },
+  {
+    "neighborhood": "בני ברק/רמת אלחנן",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 41
+  },
+  {
+    "neighborhood": "בני ברק/שיכון ה",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 61,
+    "extracted2017transactions": 54
+  },
+  {
+    "neighborhood": "בני ברק/שיכון ההסתדרות",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 67
+  },
+  {
+    "neighborhood": "בני ברק/תל גיבורים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בת ים/אזור תעשיה",
+    "extracted2015transactions": 87,
+    "extracted2016transactions": 75,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "בת ים/בית וגן",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 41
+  },
+  {
+    "neighborhood": "בת ים/דרום-מערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בת ים/ותיקים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 500,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בת ים/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בת ים/מתחם גן העיר",
+    "extracted2015transactions": 59,
+    "extracted2016transactions": 52,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "בת ים/עמידר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 28
+  },
+  {
+    "neighborhood": "בת ים/צפון-מערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בת ים/רמת הנשיא",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "בת ים/רמת יוסף",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "גבעת שמואל/גיורא",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "גבעת שמואל/הותיקה",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "גבעת שמואל/השחר",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "גבעת שמואל/רמת אילן",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "גבעת שמואל/רמת הדקלים",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "גבעת שמואל/רמת הדר",
+    "extracted2015transactions": 58,
+    "extracted2016transactions": 75,
+    "extracted2017transactions": 65
+  },
+  {
+    "neighborhood": "גבעתיים/ארלוזרוב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "גבעתיים/בורוכוב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 56,
+    "extracted2017transactions": 77
+  },
+  {
+    "neighborhood": "גבעתיים/גבעת קוזלובסקי",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "גבעתיים/גבעת רמבם",
+    "extracted2015transactions": 92,
+    "extracted2016transactions": 66,
+    "extracted2017transactions": 70
+  },
+  {
+    "neighborhood": "גבעתיים/הלה",
+    "extracted2015transactions": 40,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "גבעתיים/סיטי",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "גבעתיים/פועלי הרכבת",
+    "extracted2015transactions": 48,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "גבעתיים/קריית יוסף",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "גבעתיים/שטח 9",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "גבעתיים/שיכון חברת חשמל",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "גבעתיים/שינקין",
+    "extracted2015transactions": 97,
+    "extracted2016transactions": 90,
+    "extracted2017transactions": 79
+  },
+  {
+    "neighborhood": "גבעתיים/תל גנים",
+    "extracted2015transactions": 41,
+    "extracted2016transactions": 53,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "גני תקווה/גבעת סביון",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "גני תקווה/גבעת סביון החדשה",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "גני תקווה/גני תקווה מערב",
+    "extracted2015transactions": 178,
+    "extracted2016transactions": 61,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "גני תקווה/גנים",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "גני תקווה/גנים צפון",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "גני תקווה/הפסגה",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "גני תקווה/ישמח משה",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "גני תקווה/מרכז הישוב",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "גני תקווה/נוף סביון",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "גני תקווה/צמרות הרמה",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "דימונה/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "דימונה/בסט",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "דימונה/גיורא יוספטל",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "דימונה/גן אשכול",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "דימונה/הנצחון",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "דימונה/הר נוף",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "דימונה/חכמי ישראל",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "דימונה/מלכי ישראל",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "דימונה/ממשית",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 28
+  },
+  {
+    "neighborhood": "דימונה/נאות הללי",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "דימונה/נאות קטיף",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "דימונה/נווה אביב",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "דימונה/נווה גן",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "דימונה/נווה דוד",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "דימונה/נווה חורש",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "דימונה/ערבה",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "דימונה/פרחי ארצנו",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "דימונה/שבעת המינים",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "דימונה/שיכון שלוש קומות",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "דימונה/שכונה לדוגמה",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "הוד השרון/אזור תעשיה נווה נאמ",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "הוד השרון/גיל עמל",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "הוד השרון/הדר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 85
+  },
+  {
+    "neighborhood": "הוד השרון/מגדיאל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "הוד השרון/מתחם 1200",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 94,
+    "extracted2017transactions": 103
+  },
+  {
+    "neighborhood": "הוד השרון/מתחם 200",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "הוד השרון/נווה הדר",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "הוד השרון/נווה נאמן",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "הוד השרון/רמות מנחם",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "הוד השרון/רמתיים",
+    "extracted2015transactions": 40,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "הוד השרון/שרת",
+    "extracted2015transactions": 132,
+    "extracted2016transactions": 77,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "הרצליה/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "הרצליה/גורדון",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "הרצליה/גן רשל",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "הרצליה/גני הרצליה",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "הרצליה/דרום",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "הרצליה/הרצליה ב",
+    "extracted2015transactions": 186,
+    "extracted2016transactions": 246,
+    "extracted2017transactions": 69
+  },
+  {
+    "neighborhood": "הרצליה/הרצליה הירוקה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "הרצליה/הרצליה הצעירה",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 46,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "הרצליה/הרצליה פיתוח",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 96,
+    "extracted2017transactions": 78
+  },
+  {
+    "neighborhood": "הרצליה/וייצמן",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "הרצליה/יד התשעה",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "הרצליה/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "הרצליה/נווה אמירים",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "הרצליה/נווה ישראל",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "הרצליה/נווה עמל",
+    "extracted2015transactions": 30,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "הרצליה/נוף ים",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "הרצליה/נחלת עדה",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "הרצליה/צמרות",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "חדרה/אחוזת דניה",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/איזור תעיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/אפרים",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 91,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "חדרה/ביאליק",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "חדרה/בית אליעזר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/ביתר",
+    "extracted2015transactions": 57,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "חדרה/ברנדייס",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "חדרה/גבעת אולגה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/גבעת בוסל",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "חדרה/גבעת בילו",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "חדרה/גני אלון",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "חדרה/האוצר",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "חדרה/הזיתים",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "חדרה/הפארק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/הפועל המזרחי",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "חדרה/וייצמן",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "חדרה/חפציבה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/יוספטל",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "חדרה/יצחק",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "חדרה/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/מרכז רפואי הלל יפה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "חדרה/נווה חיים",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "חדרה/נווה עובד",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "חדרה/נחליאל",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "חדרה/ניסן",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "חדרה/עין הים",
+    "extracted2015transactions": 127,
+    "extracted2016transactions": 78,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "חדרה/פאר",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "חדרה/פארק עסקים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חדרה/רמבם",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "חדרה/שלמה",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "חדרה/שמשון",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "חולון/אגרובנק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/אזור תעשיה א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/אזור תעשיה ג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/ג'סי כהן",
+    "extracted2015transactions": 85,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/גרין",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 500,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/ח-501 - שדרת המגדלים",
+    "extracted2015transactions": 275,
+    "extracted2016transactions": 111,
+    "extracted2017transactions": 96
+  },
+  {
+    "neighborhood": "חולון/מפדה אזרחי",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "חולון/נאות יהודית",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "חולון/נאות רחל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/נאות שושנים",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "חולון/נווה ארזים",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "חולון/נווה רמז",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "חולון/קריית מיכה",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "חולון/קריית שרת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/קרית בן גוריון",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 81,
+    "extracted2017transactions": 89
+  },
+  {
+    "neighborhood": "חולון/קרית עבודה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/קרית פנחס איילון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 128
+  },
+  {
+    "neighborhood": "חולון/קרית רבין",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 450,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/קרית שרת מערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 72,
+    "extracted2017transactions": 86
+  },
+  {
+    "neighborhood": "חולון/רסקו א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חולון/רסקו ב",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 32,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "חולון/רסקו ג",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "חולון/שיכון ותיקים",
+    "extracted2015transactions": 63,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 45
+  },
+  {
+    "neighborhood": "חולון/תל גיבורים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/אחוזה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/בבנייה",
+    "extracted2015transactions": 436,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/בת גלים",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "חיפה/גבעת דאונס",
+    "extracted2015transactions": 40,
+    "extracted2016transactions": 64,
+    "extracted2017transactions": 58
+  },
+  {
+    "neighborhood": "חיפה/גבעת זמר",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/הדר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/המושבה הגרמנית",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "חיפה/העיר התחתית",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "חיפה/ואדי ניסנאס",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 42,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "חיפה/ואדי סאליב",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 29,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "חיפה/ורדיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 423,
+    "extracted2017transactions": 73
+  },
+  {
+    "neighborhood": "חיפה/זיו",
+    "extracted2015transactions": 50,
+    "extracted2016transactions": 50,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/חיפה אל עתיקה",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/חליסה",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "חיפה/כבביר",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "חיפה/כרמל מערבי",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 62,
+    "extracted2017transactions": 75
+  },
+  {
+    "neighborhood": "חיפה/כרמל צרפתי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "חיפה/כרמליה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/מרכז הכרמל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/נוה יוסף",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "חיפה/נווה דוד",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "חיפה/נווה פז",
+    "extracted2015transactions": 66,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 65
+  },
+  {
+    "neighborhood": "חיפה/נווה שאנן",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/סביוני הכרמל",
+    "extracted2015transactions": 63,
+    "extracted2016transactions": 49,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "חיפה/עין הים",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "חיפה/קריית אליהו",
+    "extracted2015transactions": 46,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "חיפה/קריית אליעזר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/קריית שמואל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/קריית שפרינצק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 47,
+    "extracted2017transactions": 93
+  },
+  {
+    "neighborhood": "חיפה/קרית הטכניון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/קרית חיים מזרחית",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/קרית חיים מערבית",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/רוממה",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 59,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "חיפה/רמות רמז",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "חיפה/רמת אלון",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "חיפה/רמת אלמוגי",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "חיפה/רמת אשכול",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "חיפה/רמת בגין",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "חיפה/רמת בן גוריון",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "חיפה/רמת גולדה",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "חיפה/רמת הדר",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "חיפה/רמת התשבי",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 48,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "חיפה/רמת ויזניץ",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 74
+  },
+  {
+    "neighborhood": "חיפה/רמת חן",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "חיפה/רמת ספיר",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "חיפה/רמת שאול",
+    "extracted2015transactions": 41,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "חיפה/שער העלייה",
+    "extracted2015transactions": 35,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 38
+  },
+  {
+    "neighborhood": "חיפה/תל עמל",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טבריה/אחווה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "טבריה/בן גוריון",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 48,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "טבריה/גאולים(שיכון א",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "טבריה/דוד רמז",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טבריה/העיר העתיקה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "טבריה/הרמבם",
+    "extracted2015transactions": 40,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "טבריה/מורדות טבריה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 72,
+    "extracted2017transactions": 47
+  },
+  {
+    "neighborhood": "טבריה/נוה הדר",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "טבריה/פאר",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "טבריה/פלוס 200",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "טבריה/קריית שמואל",
+    "extracted2015transactions": 58,
+    "extracted2016transactions": 49,
+    "extracted2017transactions": 45
+  },
+  {
+    "neighborhood": "טבריה/קרית משה",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "טבריה/רבי עקיבא",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "טבריה/רמת אגוז",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "טבריה/רמת כנרת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טבריה/שיכון ג",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 142,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "טייבה/א סוליילימה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/א ראס",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/א של",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/אבו אל עקארב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/אל באטן",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "טייבה/אל ח'לה א שמאלייה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/אל כרם אל ע'רבי",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "טייבה/אלסכאיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/באר אבו עיטה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/באר אלספסאף",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/הבדואים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/כרם אל  ג'באלי המזרח",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/כרם אל ג'באלי המערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/פרדיסייה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/קאע אל ח'לה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טייבה/רוק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טירת כרמל/איילת הכרמל",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "טירת כרמל/ביאליק",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "טירת כרמל/בן צבי",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "טירת כרמל/גיורא",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "טירת כרמל/כהן",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "טירת כרמל/כלניות",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "טירת כרמל/מעלה נוף",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "טירת כרמל/נאות כרמל",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "טירת כרמל/נווה אליאס",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "טירת כרמל/עמידר",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "טירת כרמל/רמבם",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "טירת כרמל/רמת בגין",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "יבנה/נאות אשכול",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "יבנה/נאות בגין",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "יבנה/נאות בן גוריון",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "יבנה/נאות רבין שכונה ירו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "יבנה/נאות שזר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "יבנה/נווה אילן",
+    "extracted2015transactions": 50,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "יבנה/רמות ויצמן",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 51,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "יהוד-מונוסון/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "יהוד-מונוסון/נווה מונוסון",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 76,
+    "extracted2017transactions": 53
+  },
+  {
+    "neighborhood": "יהוד-מונוסון/נווה עובד",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "יהוד-מונוסון/קרית ביאליסטוק",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "יהוד-מונוסון/קרית הסביונים",
+    "extracted2015transactions": 33,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "יהוד-מונוסון/רסקו",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "יקנעם עילית/גבעת אלונים",
+    "extracted2015transactions": 48,
+    "extracted2016transactions": 45,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "יקנעם עילית/גבעת יערה",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "יקנעם עילית/נוף לכרמל",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "יקנעם עילית/פארק תעשיה מבוא יוק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "יקנעם עילית/רמת יקנעם",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "ירושלים/א טור",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/א סוואנה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/אזור תעשיה גבעת שאו",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/אזור תעשיה הר החוצב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/אזור תעשיה עטרות",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/אזור תעשיה רוממה",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 49,
+    "extracted2017transactions": 48
+  },
+  {
+    "neighborhood": "ירושלים/ארזי הבירה",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ירושלים/ארנונה",
+    "extracted2015transactions": 143,
+    "extracted2016transactions": 88,
+    "extracted2017transactions": 57
+  },
+  {
+    "neighborhood": "ירושלים/באב א זהרה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/בית הכרם",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/בית וגן",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/בית חנינא",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "ירושלים/בית ישראל",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 42,
+    "extracted2017transactions": 43
+  },
+  {
+    "neighborhood": "ירושלים/בית צפפא",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "ירושלים/ג'בל מוקאבר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/גאולה",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "ירושלים/גאולים-בקעה",
+    "extracted2015transactions": 113,
+    "extracted2016transactions": 51,
+    "extracted2017transactions": 71
+  },
+  {
+    "neighborhood": "ירושלים/גבעת הורדים-רסקו",
+    "extracted2015transactions": 75,
+    "extracted2016transactions": 68,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "ירושלים/גבעת המבתר",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "ירושלים/גבעת המטוס",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/גבעת חנניה - אבו תור",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "ירושלים/גבעת מרדכי",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "ירושלים/גבעת משואה",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "ירושלים/גבעת רם",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/גבעת שאול",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/גילה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/הבוכרים",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "ירושלים/הגבעה הצרפתית - גבע",
+    "extracted2015transactions": 71,
+    "extracted2016transactions": 75,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "ירושלים/הולילנד",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "ירושלים/החבשים",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "ירושלים/המושבה האמריקנית",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/המושבה היוונית",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "ירושלים/הר הזיתים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/הר הצופים",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/הר נוף",
+    "extracted2015transactions": 70,
+    "extracted2016transactions": 42,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "ירושלים/הר ציון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/הרובע הארמני",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ירושלים/הרובע היהודי",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ירושלים/ואדי ג'וז",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "ירושלים/זכרון משה",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "ירושלים/חומת שמואל-הר חומה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/טלביה-קוממויות",
+    "extracted2015transactions": 50,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "ירושלים/ימין משה",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "ירושלים/כפר עקב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/כפר שלמא-הכפר השווד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/כרם אברהם",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "ירושלים/מאה שערים",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "ירושלים/מורשה-מוסררה",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "ירושלים/מחנה יהודה",
+    "extracted2015transactions": 68,
+    "extracted2016transactions": 88,
+    "extracted2017transactions": 45
+  },
+  {
+    "neighborhood": "ירושלים/ממילא",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "ירושלים/מנחת-מלחה",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "ירושלים/מעלות דפנה",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "ירושלים/מקור ברוך",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/מקור חיים",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "ירושלים/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/מרכז העיר מזרח",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/נווה יעקב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/נחלאות",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "ירושלים/ניות",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 41,
+    "extracted2017transactions": 28
+  },
+  {
+    "neighborhood": "ירושלים/סילוואן",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/סנהדריה",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "ירושלים/עזרת תורה",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "ירושלים/עין כרם",
+    "extracted2015transactions": 77,
+    "extracted2016transactions": 60,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "ירושלים/עיסאוויה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/עיר גנים א",
+    "extracted2015transactions": 68,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "ירושלים/עיר דוד",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/עמק רפאים-המושבה הג",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "ירושלים/ערב א סוואחרה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "ירושלים/פסגת זאב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/פת",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "ירושלים/צור באהר",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ירושלים/צפון תלפיות",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ירושלים/קטמון הישנה",
+    "extracted2015transactions": 70,
+    "extracted2016transactions": 64,
+    "extracted2017transactions": 62
+  },
+  {
+    "neighborhood": "ירושלים/קטמונים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/קרית בעלז",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "ירושלים/קרית היובל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/קרית הלאום",
+    "extracted2015transactions": 30,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "ירושלים/קרית מנחם",
+    "extracted2015transactions": 30,
+    "extracted2016transactions": 32,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "ירושלים/קרית משה",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 54
+  },
+  {
+    "neighborhood": "ירושלים/קרית שמואל",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "ירושלים/ראס אל עמוד",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "ירושלים/רוממה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 74,
+    "extracted2017transactions": 89
+  },
+  {
+    "neighborhood": "ירושלים/רחביה",
+    "extracted2015transactions": 59,
+    "extracted2016transactions": 51,
+    "extracted2017transactions": 75
+  },
+  {
+    "neighborhood": "ירושלים/רמות",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/רמות רחל-ארנונה החד",
+    "extracted2015transactions": 35,
+    "extracted2016transactions": 52,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "ירושלים/רמת אשכול",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "ירושלים/רמת דניה",
+    "extracted2015transactions": 35,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "ירושלים/רמת מוצא",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "ירושלים/רמת שלמה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/רמת שרת",
+    "extracted2015transactions": 48,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 53
+  },
+  {
+    "neighborhood": "ירושלים/שומרי החומות",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ירושלים/שועפאת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ירושלים/שייח ג'ראח",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "ירושלים/שיכון חבד",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "ירושלים/שמואל הנביא",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "ירושלים/שמעון הצדיק",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "ירושלים/תל ארזה",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "ירושלים/תלפיות",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 69,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "ירושלים/תלפיות מזרח",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 86
+  },
+  {
+    "neighborhood": "כפר יונה/בנה ביתך",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "כפר יונה/גבעת אלונים",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "כפר יונה/הצבאית",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "כפר יונה/נווה ניצנים",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "כפר יונה/נוף הדר",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "כפר יונה/שיכון א",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "כפר יונה/שיכון ב",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "כפר יונה/שיכון חדש",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "כפר סבא/אלי כהן",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "כפר סבא/אליעזר",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "כפר סבא/ארלוזורוב",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "כפר סבא/בית ונוף",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "כפר סבא/גאולים",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "כפר סבא/גבעת אשכול",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "כפר סבא/גני השרון",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "כפר סבא/דגניה",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "כפר סבא/דובדבן הכפר",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "כפר סבא/הדרים",
+    "extracted2015transactions": 52,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 43
+  },
+  {
+    "neighborhood": "כפר סבא/הזמר העברי",
+    "extracted2015transactions": 69,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "כפר סבא/הירוקה כס 80",
+    "extracted2015transactions": 118,
+    "extracted2016transactions": 76,
+    "extracted2017transactions": 106
+  },
+  {
+    "neighborhood": "כפר סבא/הפארק",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "כפר סבא/הפרחים",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "כפר סבא/ותיקים",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "כפר סבא/חלוצים",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "כפר סבא/חצרות הדר",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "כפר סבא/יוספטל",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "כפר סבא/כיסופים",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "כפר סבא/כפר סבא הצעירה",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "כפר סבא/למפרט",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "כפר סבא/מוצקין",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "כפר סבא/מזרחי א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "כפר סבא/מעוז",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "כפר סבא/מרכז",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "כפר סבא/סביוני הכפר",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "כפר סבא/סירקין",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "כפר סבא/עובד בן ציון",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "כפר סבא/עלייה",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "כפר סבא/פועלים א",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "כפר סבא/פועלים ב",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "כפר סבא/פועלים ד",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "כפר סבא/צפון",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "כפר סבא/קפלן",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "כפר סבא/קרית ספיר",
+    "extracted2015transactions": 42,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "כפר סבא/ראשונים",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "כפר סבא/שבזי",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "כפר סבא/שיכוני מזרחי",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "כפר סבא/תקומה",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "כרמיאל/ארבל-יחיעם",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "כרמיאל/אשכול",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 53,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "כרמיאל/גבעת מכוש",
+    "extracted2015transactions": 76,
+    "extracted2016transactions": 73,
+    "extracted2017transactions": 55
+  },
+  {
+    "neighborhood": "כרמיאל/גבעת רם",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "כרמיאל/האירוסים",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "כרמיאל/הגליל",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "כרמיאל/הדר",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "כרמיאל/המייסדים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "כרמיאל/הר כרמי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "כרמיאל/טנא",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "כרמיאל/כתף",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "כרמיאל/מגדים",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "כרמיאל/מערבית",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "כרמיאל/פרסה",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "כרמיאל/קרית פסטיבל המחול",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "כרמיאל/רמת רבין",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 117,
+    "extracted2017transactions": 90
+  },
+  {
+    "neighborhood": "כרמיאל/רמת רבין מערב",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "כרמיאל/שגיא",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "לוד/אזור תעשיה מרכז",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/אחיסמך",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/אלישיב",
+    "extracted2015transactions": 109,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "לוד/בילו",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/בן גוריון",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "לוד/גבעת הזיתים",
+    "extracted2015transactions": 30,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "לוד/גני אביב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/גני יער",
+    "extracted2015transactions": 59,
+    "extracted2016transactions": 80,
+    "extracted2017transactions": 53
+  },
+  {
+    "neighborhood": "לוד/החשמונאים",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "לוד/העיר העתיקה",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "לוד/ורדה- הרכבת",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/חבד",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "לוד/חסכון ג",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 41,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "לוד/לוד הצעירה",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "לוד/ממשלתית",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "לוד/מער 8-10",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/מרכז העיר",
+    "extracted2015transactions": 39,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "לוד/משמר נוף",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "לוד/נאות יצחק",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "לוד/נווה אלון",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "לוד/נווה זית",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "לוד/נווה ירק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "לוד/נווה נוף",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "לוד/נווה שלום",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "לוד/סביוני לוד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/עמידר",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "לוד/פרדס שניר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/קריית בית ה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/רמז",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/רמט",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "לוד/רמת אשכול",
+    "extracted2015transactions": 35,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "לוד/רסקו",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "לוד/שבזי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "לוד/שגיא ב",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "לוד/שער העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "לוד/שרת",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "מגדל העמק/אזור תעשיה דרום",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "מגדל העמק/אזור תעשיה רמת גבר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "מגדל העמק/גן ישראל",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "מגדל העמק/הורד",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 106
+  },
+  {
+    "neighborhood": "מגדל העמק/יערת העמק",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 28
+  },
+  {
+    "neighborhood": "מגדל העמק/מגדל אור",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "מגדל העמק/מצפה העמק",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "מגדל העמק/נוף העמק",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "מגדל העמק/פנחס ספיר",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 45,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "מגדל העמק/פנינת העמק",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "מגדל העמק/קרית רבין",
+    "extracted2015transactions": 176,
+    "extracted2016transactions": 51,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "מגדל העמק/רמת אשכול",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "מגדל העמק/רמת בלפור",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "מגדל העמק/שלום עליכם",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "מודיעין עילית/אחוזת ברכפלד",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 49,
+    "extracted2017transactions": 61
+  },
+  {
+    "neighborhood": "מודיעין עילית/מתיתיהו מזרח",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 29,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "מודיעין עילית/נאות הפיסגה",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 38
+  },
+  {
+    "neighborhood": "מודיעין עילית/קרית ספר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 61,
+    "extracted2017transactions": 114
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/אבני חן",
+    "extracted2015transactions": 100,
+    "extracted2016transactions": 112,
+    "extracted2017transactions": 70
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/הכרמים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/המגינים",
+    "extracted2015transactions": 83,
+    "extracted2016transactions": 63,
+    "extracted2017transactions": 106
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/הנביאים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 381,
+    "extracted2017transactions": 118
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/הנחלים",
+    "extracted2015transactions": 59,
+    "extracted2016transactions": 64,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/הפרחים",
+    "extracted2015transactions": 65,
+    "extracted2016transactions": 69,
+    "extracted2017transactions": 58
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/הציפורים",
+    "extracted2015transactions": 200,
+    "extracted2016transactions": 172,
+    "extracted2017transactions": 82
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/השבטים",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 32,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/מוריה",
+    "extracted2015transactions": 107,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 43
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/מורשת - תכנון בעתיד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/מכבים",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/משואה",
+    "extracted2015transactions": 84,
+    "extracted2016transactions": 74,
+    "extracted2017transactions": 56
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/נופים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 152
+  },
+  {
+    "neighborhood": "מודיעין-מכבים-רעות/רעות",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "מעלה אדומים/אבני החושן",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "מעלה אדומים/אזור תעשיה מישור אד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "מעלה אדומים/המצדים",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "מעלה אדומים/הנחלים",
+    "extracted2015transactions": 45,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "מעלה אדומים/כלי שיר",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 54,
+    "extracted2017transactions": 43
+  },
+  {
+    "neighborhood": "מעלה אדומים/מגדים",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "מעלה אדומים/מצפה נבו",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "מעלה אדומים/נופי סלע",
+    "extracted2015transactions": 83,
+    "extracted2016transactions": 137,
+    "extracted2017transactions": 115
+  },
+  {
+    "neighborhood": "מעלה אדומים/צמח השדה",
+    "extracted2015transactions": 89,
+    "extracted2016transactions": 61,
+    "extracted2017transactions": 63
+  },
+  {
+    "neighborhood": "נהריה/גבעת אוסישקין",
+    "extracted2015transactions": 101,
+    "extracted2016transactions": 165,
+    "extracted2017transactions": 141
+  },
+  {
+    "neighborhood": "נהריה/גבעת טרומפלדור",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "נהריה/גבעת כצנלסון",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "נהריה/גבעת שרת",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "נהריה/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נהריה/נווה אלון",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "נהריה/נווה יצחק רבין - נהר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נהריה/נווה מנחם בגין",
+    "extracted2015transactions": 31,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "נהריה/עין שרה",
+    "extracted2015transactions": 50,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "נהריה/קריית יוספטל",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "נהריה/קריית עשור",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "נהריה/רסקו חקלאית",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נוף הגליל/אזור תעשיה א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נוף הגליל/אשכול",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "נוף הגליל/בן גוריון",
+    "extracted2015transactions": 42,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "נוף הגליל/דרומית",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 58,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "נוף הגליל/הר יונה",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 85,
+    "extracted2017transactions": 75
+  },
+  {
+    "neighborhood": "נוף הגליל/זאב",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "נוף הגליל/כרמים",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "נוף הגליל/נוף יזרעאל",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "נוף הגליל/ספיר",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 29,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "נוף הגליל/פינת עדן",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "נוף הגליל/צפונית",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נוף הגליל/שלום",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "נס ציונה/ארגמן",
+    "extracted2015transactions": 58,
+    "extracted2016transactions": 87,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "נס ציונה/גבעת האירוסים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "נס ציונה/גבעת הצבר",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "נס ציונה/גבעת התור",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "נס ציונה/גבעת מיכאל",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "נס ציונה/גבעת נוף",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "נס ציונה/גני איריס",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "נס ציונה/גני הדר",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "נס ציונה/הדרי סמל",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "נס ציונה/וואלי",
+    "extracted2015transactions": 49,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "נס ציונה/וילה דורי",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "נס ציונה/טירת שלום",
+    "extracted2015transactions": 46,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "נס ציונה/יד אליעזר",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 126,
+    "extracted2017transactions": 42
+  },
+  {
+    "neighborhood": "נס ציונה/כפר אהרון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נס ציונה/כפר אהרון הישנה",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נס ציונה/לב המושבה",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "נס ציונה/מרכז מזרחי",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "נס ציונה/מרכז מערבי",
+    "extracted2015transactions": 45,
+    "extracted2016transactions": 29,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "נס ציונה/נווה ניר",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "נס ציונה/סביוני הפארק",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "נס ציונה/סביוני נצר סירני",
+    "extracted2015transactions": 89,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "נס ציונה/עמידר",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "נס ציונה/פסגת סלע",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "נס ציונה/רמת בן צבי",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "נס ציונה/רמת סמל",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "נס ציונה/שמורת מליבו",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "נשר/בן דור",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "נשר/גבעת נשר",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "נשר/גבעת עמוס",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "נשר/עמק הכרמל",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 58
+  },
+  {
+    "neighborhood": "נשר/רמות יצחק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נשר/תל חנן",
+    "extracted2015transactions": 68,
+    "extracted2016transactions": 129,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "נתיבות/בבא סאלי",
+    "extracted2015transactions": 70,
+    "extracted2016transactions": 78,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "נתיבות/ברית כהונה",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "נתיבות/החורש",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתיבות/לוי אשכול",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "נתיבות/נווה נוי",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "נתיבות/נטעים",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "נתיבות/נתיבות מערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 70,
+    "extracted2017transactions": 226
+  },
+  {
+    "neighborhood": "נתיבות/קרית מנחם בגין",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "נתיבות/קרית משה",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "נתניה/אבו שדיד",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/אגם 3 - בתכנון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/אגמים",
+    "extracted2015transactions": 161,
+    "extracted2016transactions": 86,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "נתניה/אזור תעשיה פנחס ספי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/בן ציון",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 76,
+    "extracted2017transactions": 54
+  },
+  {
+    "neighborhood": "נתניה/גבע",
+    "extracted2015transactions": 96,
+    "extracted2016transactions": 59,
+    "extracted2017transactions": 56
+  },
+  {
+    "neighborhood": "נתניה/גבעת האירוסים",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "נתניה/גלי הים",
+    "extracted2015transactions": 49,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "נתניה/חוף הים והמלונות",
+    "extracted2015transactions": 118,
+    "extracted2016transactions": 100,
+    "extracted2017transactions": 83
+  },
+  {
+    "neighborhood": "נתניה/מחנה יעקב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/מכנס",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 58,
+    "extracted2017transactions": 54
+  },
+  {
+    "neighborhood": "נתניה/מער - מרכז עירוני ר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/משכנות זבולון",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "נתניה/נאות גולדה",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "נתניה/נאות גנים - שיכון ות",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "נתניה/נאות הרצל",
+    "extracted2015transactions": 131,
+    "extracted2016transactions": 66,
+    "extracted2017transactions": 55
+  },
+  {
+    "neighborhood": "נתניה/נאות מנחם בגין",
+    "extracted2015transactions": 47,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 38
+  },
+  {
+    "neighborhood": "נתניה/נאות שקד",
+    "extracted2015transactions": 87,
+    "extracted2016transactions": 61,
+    "extracted2017transactions": 61
+  },
+  {
+    "neighborhood": "נתניה/נווה אוז",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 80,
+    "extracted2017transactions": 70
+  },
+  {
+    "neighborhood": "נתניה/נווה איתמר",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "נתניה/נווה שלום",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "נתניה/נוף גלים",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 49,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "נתניה/נוף הטיילת",
+    "extracted2015transactions": 63,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "נתניה/עין התכלת",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "נתניה/עיר ימים",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 147,
+    "extracted2017transactions": 102
+  },
+  {
+    "neighborhood": "נתניה/פרדס הגדוד",
+    "extracted2015transactions": 92,
+    "extracted2016transactions": 96,
+    "extracted2017transactions": 80
+  },
+  {
+    "neighborhood": "נתניה/קריית השרון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/קריית יהלום - פארק ת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/קריית יצחק רבין",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "נתניה/קריית נורדאו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "נתניה/קרית צאנז",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 60,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "נתניה/רמת אפרים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 113,
+    "extracted2017transactions": 84
+  },
+  {
+    "neighborhood": "נתניה/רמת חן",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "נתניה/רמת יגאל ידין - דורה",
+    "extracted2015transactions": 31,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "נתניה/רמת פולג",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "נתניה/רסקו",
+    "extracted2015transactions": 70,
+    "extracted2016transactions": 74,
+    "extracted2017transactions": 73
+  },
+  {
+    "neighborhood": "עכו/אברהם דנינו, בן גיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 48
+  },
+  {
+    "neighborhood": "עכו/אזור תעשיה זעירה",
+    "extracted2015transactions": 90,
+    "extracted2016transactions": 156,
+    "extracted2017transactions": 98
+  },
+  {
+    "neighborhood": "עכו/גן מוטה גור",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 51
+  },
+  {
+    "neighborhood": "עכו/האגרוף",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "עכו/הכרם ב",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "עכו/העיר העתיקה",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "עכו/מנחם בגין",
+    "extracted2015transactions": 48,
+    "extracted2016transactions": 73,
+    "extracted2017transactions": 72
+  },
+  {
+    "neighborhood": "עכו/מרכז העיר",
+    "extracted2015transactions": 76,
+    "extracted2016transactions": 65,
+    "extracted2017transactions": 68
+  },
+  {
+    "neighborhood": "עכו/נאות ים",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "עכו/נווה אביב",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "עכו/נווה אלון",
+    "extracted2015transactions": 46,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "עכו/נווה יוני נתניהו",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "עכו/נווה ספיר - קריית תמ",
+    "extracted2015transactions": 105,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 52
+  },
+  {
+    "neighborhood": "עכו/צפון הכרם",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "עכו/קרית וולפסון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 73
+  },
+  {
+    "neighborhood": "עכו/שיכון עמידר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "עפולה/אזור תעשיה ג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "עפולה/אזור תעשיה ומסחר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "עפולה/בנה ביתך",
+    "extracted2015transactions": 39,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "עפולה/גבעת המורה",
+    "extracted2015transactions": 50,
+    "extracted2016transactions": 46,
+    "extracted2017transactions": 60
+  },
+  {
+    "neighborhood": "עפולה/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "עפולה/נווה יוסף",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "עפולה/עפולה דרום",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "עפולה/עפולה דרום-מערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "עפולה/עפולה הצעירה",
+    "extracted2015transactions": 33,
+    "extracted2016transactions": 53,
+    "extracted2017transactions": 87
+  },
+  {
+    "neighborhood": "עפולה/רובע יזרעאל סביוני",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ערד/אבישור",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "ערד/גבים",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "ערד/הרדוף",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ערד/חלמיש",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 48,
+    "extracted2017transactions": 57
+  },
+  {
+    "neighborhood": "ערד/חצבים",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "ערד/טללים",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "ערד/יהושפט",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "ערד/יעלים",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "ערד/לבאות",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "ערד/מבוא שקד",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "ערד/מעוף",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "ערד/מרכז מסחרי א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ערד/נעורים",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "ערד/נשר",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 50
+  },
+  {
+    "neighborhood": "ערד/עינות",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "ערד/ראשונים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ערד/רותם",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "ערד/רננים",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "ערד/שקד",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "פתח תקווה/אזור תעשיה סגולה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "פתח תקווה/אזור תעשיה קרית ארי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/אזור תעשיה רמת סיב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/אחדות",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 42
+  },
+  {
+    "neighborhood": "פתח תקווה/בילינסון",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/בר יהודה",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "פתח תקווה/בת גנים",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "פתח תקווה/גני הדר",
+    "extracted2015transactions": 107,
+    "extracted2016transactions": 84,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "פתח תקווה/הדר גנים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "פתח תקווה/הדר המושבות",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 61
+  },
+  {
+    "neighborhood": "פתח תקווה/הדר המושבות החדשה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/יוספטל",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 41
+  },
+  {
+    "neighborhood": "פתח תקווה/כפר אברהם",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "פתח תקווה/כפר גנים א",
+    "extracted2015transactions": 93,
+    "extracted2016transactions": 61,
+    "extracted2017transactions": 65
+  },
+  {
+    "neighborhood": "פתח תקווה/כפר גנים ב",
+    "extracted2015transactions": 94,
+    "extracted2016transactions": 134,
+    "extracted2017transactions": 96
+  },
+  {
+    "neighborhood": "פתח תקווה/כפר גנים ג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/מחנה יהודה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/נוה עוז",
+    "extracted2015transactions": 31,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "פתח תקווה/נווה גן",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 107
+  },
+  {
+    "neighborhood": "פתח תקווה/נווה גנים",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "פתח תקווה/נווה מעוז",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "פתח תקווה/נווה עוז הירוקה",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 103,
+    "extracted2017transactions": 45
+  },
+  {
+    "neighborhood": "פתח תקווה/עין גנים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/עין גנים דרום",
+    "extracted2015transactions": 54,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "פתח תקווה/עמישב",
+    "extracted2015transactions": 31,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "פתח תקווה/קרול",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "פתח תקווה/קריית אלון",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "פתח תקווה/קריית דוד אלעזר",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "פתח תקווה/קריית הרב סלומון",
+    "extracted2015transactions": 74,
+    "extracted2016transactions": 50,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "פתח תקווה/קריית מטלון",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "פתח תקווה/קרית אליעזר פרי",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "פתח תקווה/קרית חזני",
+    "extracted2015transactions": 102,
+    "extracted2016transactions": 73,
+    "extracted2017transactions": 66
+  },
+  {
+    "neighborhood": "פתח תקווה/רמת ורבר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 77
+  },
+  {
+    "neighborhood": "פתח תקווה/שיכון הפועל המזרחי",
+    "extracted2015transactions": 49,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "פתח תקווה/שיכון מפם",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "פתח תקווה/שיפר",
+    "extracted2015transactions": 52,
+    "extracted2016transactions": 78,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "פתח תקווה/שעריה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "צפת/בן גוריון כנען",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "צפת/בנה ביתך",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "צפת/גני הדר",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "צפת/דרום",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "צפת/יצחק רבין",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "צפת/כנען א",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "צפת/מצפה האגם",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "צפת/מרום כנען איביקור",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "צפת/נווה אורנים",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "צפת/נוף הכינרת",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "צפת/רמת מנחם בגין",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "צפת/רמת רזים א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "צפת/רמת רזים ב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "קרית אונו/אונו הירוקה",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "קרית אונו/גני אילן",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "קרית אונו/המרכז",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "קרית אונו/מגדל המים",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "קרית אונו/עבר הירדן",
+    "extracted2015transactions": 80,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "קרית אונו/פסגת אונו",
+    "extracted2015transactions": 58,
+    "extracted2016transactions": 90,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "קרית אונו/פרדס ריספלד",
+    "extracted2015transactions": 49,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "קרית אונו/קיראון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית אונו/קרית אונו הותיקה",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "קרית אונו/רימון",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "קרית אונו/שיכון רסקו",
+    "extracted2015transactions": 63,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "קרית אתא/אברמסקי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 74,
+    "extracted2017transactions": 63
+  },
+  {
+    "neighborhood": "קרית אתא/אזור תעשיה עיר גנים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית אתא/גבעה א",
+    "extracted2015transactions": 61,
+    "extracted2016transactions": 58,
+    "extracted2017transactions": 69
+  },
+  {
+    "neighborhood": "קרית אתא/גבעת אלונים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית אתא/גבעת הרקפות",
+    "extracted2015transactions": 54,
+    "extracted2016transactions": 54,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "קרית אתא/גבעת טל",
+    "extracted2015transactions": 52,
+    "extracted2016transactions": 29,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "קרית אתא/גבעת רם",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "קרית אתא/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית אתא/נווה אברהם",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית אתא/נווה חן",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "קרית אתא/קרית בנימין",
+    "extracted2015transactions": 26,
+    "extracted2016transactions": 62,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "קרית אתא/קרית פרוסטיג",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "קרית אתא/קרית שטנר",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית ביאליק/אזור תעשיה קרית ביא",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית ביאליק/אפק",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "קרית ביאליק/גבעת הרקפות",
+    "extracted2015transactions": 101,
+    "extracted2016transactions": 121,
+    "extracted2017transactions": 113
+  },
+  {
+    "neighborhood": "קרית ביאליק/דרום",
+    "extracted2015transactions": 67,
+    "extracted2016transactions": 60,
+    "extracted2017transactions": 55
+  },
+  {
+    "neighborhood": "קרית ביאליק/מרכז העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית ביאליק/פרפר",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "קרית ביאליק/צור שלום",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 70
+  },
+  {
+    "neighborhood": "קרית גת/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית גת/אתרי המקרא",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "קרית גת/בני ישראל",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 26
+  },
+  {
+    "neighborhood": "קרית גת/גליקסון",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "קרית גת/הבנים",
+    "extracted2015transactions": 89,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "קרית גת/ההעפלה",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 22,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "קרית גת/החורש",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "קרית גת/הנביאים",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "קרית גת/הפרחים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 204
+  },
+  {
+    "neighborhood": "קרית גת/הקוממיות",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "קרית גת/השופטים",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "קרית גת/כרמי גת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית גת/מגדים",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "קרית גת/מלכי ישראל",
+    "extracted2015transactions": 47,
+    "extracted2016transactions": 40,
+    "extracted2017transactions": 50
+  },
+  {
+    "neighborhood": "קרית גת/פז",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "קרית גת/צהל",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "קרית גת/שער הדרום",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "קרית ים/א",
+    "extracted2015transactions": 77,
+    "extracted2016transactions": 55,
+    "extracted2017transactions": 56
+  },
+  {
+    "neighborhood": "קרית ים/אלמוגים",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "קרית ים/בנה ביתך",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "קרית ים/סביוני ים",
+    "extracted2015transactions": 46,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "קרית ים/פסגות ים",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "קרית ים/קריית ים ב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "קרית ים/קריית ים ג",
+    "extracted2015transactions": 67,
+    "extracted2016transactions": 54,
+    "extracted2017transactions": 48
+  },
+  {
+    "neighborhood": "קרית ים/קריית ים ד",
+    "extracted2015transactions": 41,
+    "extracted2016transactions": 53,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "קרית מוצקין/לב העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית מוצקין/מוצקין הותיקה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית מוצקין/משכנות אמנים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית מוצקין/נווה גנים",
+    "extracted2015transactions": 65,
+    "extracted2016transactions": 117,
+    "extracted2017transactions": 92
+  },
+  {
+    "neighborhood": "קרית מלאכי/אורות",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "קרית מלאכי/אזור תעשיה",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית מלאכי/אחוזת רוטנר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "קרית מלאכי/גני שמואל",
+    "extracted2015transactions": 25,
+    "extracted2016transactions": 30,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "קרית מלאכי/המחנה",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 86,
+    "extracted2017transactions": 51
+  },
+  {
+    "neighborhood": "קרית מלאכי/המייסדים",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "קרית מלאכי/הרצל",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "קרית מלאכי/וייצמן",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "קרית מלאכי/חבד",
+    "extracted2015transactions": 27,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "קרית מלאכי/נחלת הר חבד",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "קרית מלאכי/קיבוץ גלויות",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "ראש העין/אביב",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "ראש העין/גבעת הסלעים",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "ראש העין/גבעת טל",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "ראש העין/הרקפות",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "ראש העין/מצפה אפק",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 21
+  },
+  {
+    "neighborhood": "ראש העין/נווה אפק",
+    "extracted2015transactions": 65,
+    "extracted2016transactions": 67,
+    "extracted2017transactions": 64
+  },
+  {
+    "neighborhood": "ראש העין/פסגות אפק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ראש העין/פסגת טל",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "ראש העין/צהל",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "ראש העין/ראש העין צפון",
+    "extracted2015transactions": 172,
+    "extracted2016transactions": 213,
+    "extracted2017transactions": 192
+  },
+  {
+    "neighborhood": "ראש העין/רמבם",
+    "extracted2015transactions": 98,
+    "extracted2016transactions": 43,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "ראש העין/שבזי",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ראשון לציון/אברמוביץ",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ראשון לציון/בנות חיל",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "ראשון לציון/השומר",
+    "extracted2015transactions": 53,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 56
+  },
+  {
+    "neighborhood": "ראשון לציון/כלניות",
+    "extracted2015transactions": 45,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "ראשון לציון/כצנלסון",
+    "extracted2015transactions": 90,
+    "extracted2016transactions": 75,
+    "extracted2017transactions": 84
+  },
+  {
+    "neighborhood": "ראשון לציון/מב''ת מערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "ראשון לציון/מב''ת צפון",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ראשון לציון/מישור הנוף",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 32,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "ראשון לציון/מרום ראשון",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "ראשון לציון/נאות אשלים",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "ראשון לציון/נאות שיקמה",
+    "extracted2015transactions": 104,
+    "extracted2016transactions": 91,
+    "extracted2017transactions": 85
+  },
+  {
+    "neighborhood": "ראשון לציון/נווה דקלים",
+    "extracted2015transactions": 30,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "ראשון לציון/נווה הדרים",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 42,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "ראשון לציון/נווה הלל",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "ראשון לציון/נווה חוף",
+    "extracted2015transactions": 58,
+    "extracted2016transactions": 55,
+    "extracted2017transactions": 42
+  },
+  {
+    "neighborhood": "ראשון לציון/נווה ים",
+    "extracted2015transactions": 64,
+    "extracted2016transactions": 60,
+    "extracted2017transactions": 57
+  },
+  {
+    "neighborhood": "ראשון לציון/נחלת יהודה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "ראשון לציון/נעורים",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "ראשון לציון/צמרות",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "ראשון לציון/קדמת ראשון",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 44,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "ראשון לציון/קריית גנים",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 55,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "ראשון לציון/קריית הלאום",
+    "extracted2015transactions": 48,
+    "extracted2016transactions": 29,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "ראשון לציון/קריית חתני פרס נובל",
+    "extracted2015transactions": 40,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "ראשון לציון/קריית ראשון",
+    "extracted2015transactions": 64,
+    "extracted2016transactions": 73,
+    "extracted2017transactions": 66
+  },
+  {
+    "neighborhood": "ראשון לציון/קריית שמחה",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 3,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ראשון לציון/קרית כרמים",
+    "extracted2015transactions": 38,
+    "extracted2016transactions": 35,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "ראשון לציון/ראשונים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ראשון לציון/רביבים",
+    "extracted2015transactions": 30,
+    "extracted2016transactions": 45,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "ראשון לציון/רמבם",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ראשון לציון/רמז",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "ראשון לציון/רמת אליהו",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 65,
+    "extracted2017transactions": 55
+  },
+  {
+    "neighborhood": "ראשון לציון/שיכוני המזרח",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "ראשון לציון/שער הים",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "רהט/11",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/12",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "רהט/14",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/17",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/27",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/3",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "רהט/31",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/אבו סוהיבאן 21",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/אל ג'לאווי 15",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/אל פיניש 28",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רהט/אל קסאסי וא טורי 29",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/אבן גבירול",
+    "extracted2015transactions": 103,
+    "extracted2016transactions": 143,
+    "extracted2017transactions": 91
+  },
+  {
+    "neighborhood": "רחובות/אבני חן",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 18
+  },
+  {
+    "neighborhood": "רחובות/אושיות",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 64,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "רחובות/אזורי ויצמן",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 9,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "רחובות/אחוזת הנשיא",
+    "extracted2015transactions": 46,
+    "extracted2016transactions": 37,
+    "extracted2017transactions": 35
+  },
+  {
+    "neighborhood": "רחובות/אייזנבר אהרוני",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/בנימין נורדאו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/גבעתי",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "רחובות/גינות סביון",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "רחובות/דניה",
+    "extracted2015transactions": 30,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "רחובות/החלוץ העבודה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/היובל",
+    "extracted2015transactions": 69,
+    "extracted2016transactions": 52,
+    "extracted2017transactions": 53
+  },
+  {
+    "neighborhood": "רחובות/וייסבורג שקולניק",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/וייסגל",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "רחובות/חבצלת",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "רחובות/יחד",
+    "extracted2015transactions": 35,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "רחובות/מילר מלצר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/מכון ויצמן",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "רחובות/מרמורק",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 16,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "רחובות/מתחם התחנה המרכזית",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 131,
+    "extracted2017transactions": 78
+  },
+  {
+    "neighborhood": "רחובות/נווה אלון",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/נווה יהודה",
+    "extracted2015transactions": 32,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "רחובות/נווה עמית",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "רחובות/סלע",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רחובות/קריית דוד",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 32,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "רחובות/קריית ההגנה",
+    "extracted2015transactions": 15,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "רחובות/קרית משה",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 23,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "רחובות/רחובות ההולנדית",
+    "extracted2015transactions": 167,
+    "extracted2016transactions": 144,
+    "extracted2017transactions": 28
+  },
+  {
+    "neighborhood": "רחובות/רחובות החדשה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 133,
+    "extracted2017transactions": 128
+  },
+  {
+    "neighborhood": "רחובות/רחובות המדע",
+    "extracted2015transactions": 71,
+    "extracted2016transactions": 140,
+    "extracted2017transactions": 161
+  },
+  {
+    "neighborhood": "רחובות/רחובות הצעירה",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 101,
+    "extracted2017transactions": 59
+  },
+  {
+    "neighborhood": "רחובות/שעריים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמלה/אגש",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "רמלה/אזור מסחר ותעסוקה ב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמלה/אשכול",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "רמלה/בילו",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "רמלה/בן גוריון",
+    "extracted2015transactions": 33,
+    "extracted2016transactions": 34,
+    "extracted2017transactions": 40
+  },
+  {
+    "neighborhood": "רמלה/ג'ואריש",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "רמלה/גיורא",
+    "extracted2015transactions": 35,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 38
+  },
+  {
+    "neighborhood": "רמלה/גן חקל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמלה/גני דן",
+    "extracted2015transactions": 8,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "רמלה/המרכז האזרחי",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "רמלה/העיר העתיקה",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "רמלה/העיר העתיקה - מזרח",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמלה/השופטים",
+    "extracted2015transactions": 79,
+    "extracted2016transactions": 72,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "רמלה/וייצמן",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "רמלה/מכבי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמלה/משכנות",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "רמלה/נאות יצחק רבין",
+    "extracted2015transactions": 23,
+    "extracted2016transactions": 24,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "רמלה/נווה דוד",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "רמלה/נווה יהונתן",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "רמלה/נווה מאיר",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "רמלה/קריית מנחם בגין",
+    "extracted2015transactions": 41,
+    "extracted2016transactions": 38,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "רמלה/קרית האומנים",
+    "extracted2015transactions": 200,
+    "extracted2016transactions": 99,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "רמלה/רמלה מערב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 1
+  },
+  {
+    "neighborhood": "רמלה/רמת דן",
+    "extracted2015transactions": 31,
+    "extracted2016transactions": 29,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "רמלה/שפרינצק",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 7
+  },
+  {
+    "neighborhood": "רמת גן/אזור הבילוים",
+    "extracted2015transactions": 19,
+    "extracted2016transactions": 82,
+    "extracted2017transactions": 76
+  },
+  {
+    "neighborhood": "רמת גן/הבורסה",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "רמת גן/הגפן",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 44
+  },
+  {
+    "neighborhood": "רמת גן/הלל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 118,
+    "extracted2017transactions": 132
+  },
+  {
+    "neighborhood": "רמת גן/הראשונים",
+    "extracted2015transactions": 85,
+    "extracted2016transactions": 141,
+    "extracted2017transactions": 68
+  },
+  {
+    "neighborhood": "רמת גן/ותיקים",
+    "extracted2015transactions": 49,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "רמת גן/חרוזים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/יד לבנים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/כפר אזר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/מרום נווה",
+    "extracted2015transactions": 56,
+    "extracted2016transactions": 65,
+    "extracted2017transactions": 39
+  },
+  {
+    "neighborhood": "רמת גן/מרכז העיר א",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/מרכז העיר ב",
+    "extracted2015transactions": 90,
+    "extracted2016transactions": 135,
+    "extracted2017transactions": 96
+  },
+  {
+    "neighborhood": "רמת גן/מרכז העיר ג",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/מתחם נגבה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/נווה יהושע",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/נחלת גנים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 36
+  },
+  {
+    "neighborhood": "רמת גן/קריית בורוכוב",
+    "extracted2015transactions": 36,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 31
+  },
+  {
+    "neighborhood": "רמת גן/קרית קריניצי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/רמת אפעל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת גן/רמת חן",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "רמת גן/רמת עמידר",
+    "extracted2015transactions": 76,
+    "extracted2016transactions": 65,
+    "extracted2017transactions": 42
+  },
+  {
+    "neighborhood": "רמת גן/רמת שקמה",
+    "extracted2015transactions": 68,
+    "extracted2016transactions": 64,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "רמת גן/שיכון המזרחי",
+    "extracted2015transactions": 140,
+    "extracted2016transactions": 98,
+    "extracted2017transactions": 82
+  },
+  {
+    "neighborhood": "רמת גן/שיכון צנחנים",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "רמת גן/תל בנימין",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 14
+  },
+  {
+    "neighborhood": "רמת גן/תל גנים",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "רמת גן/תל השומר",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "רמת גן/תל יהודה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת השרון/אלון",
+    "extracted2015transactions": 49,
+    "extracted2016transactions": 62,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "רמת השרון/גולן",
+    "extracted2015transactions": 21,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "רמת השרון/הדר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת השרון/מורשה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רמת השרון/נווה גן",
+    "extracted2015transactions": 44,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 45
+  },
+  {
+    "neighborhood": "רמת השרון/נווה מגן",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "רמת השרון/נווה רום",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 8,
+    "extracted2017transactions": 6
+  },
+  {
+    "neighborhood": "רמת השרון/נווה רסקו",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "רמת השרון/קרית יערים",
+    "extracted2015transactions": 24,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "רעננה/אשר",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "רעננה/לב הפארק",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 45,
+    "extracted2017transactions": 30
+  },
+  {
+    "neighborhood": "רעננה/לסטר רבוצקי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רעננה/מרכז",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רעננה/נאות עוזי",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 1,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "רעננה/נווה זמר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 65
+  },
+  {
+    "neighborhood": "רעננה/פארק מסחר ותעשיה רע",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 61
+  },
+  {
+    "neighborhood": "רעננה/פרדס משותף",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 13,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "רעננה/קזן",
+    "extracted2015transactions": 39,
+    "extracted2016transactions": 65,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "רעננה/קריית אליהו גולומב",
+    "extracted2015transactions": 7,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "רעננה/קריית בן צבי(רסקו",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "רעננה/קריית גנים",
+    "extracted2015transactions": 2,
+    "extracted2016transactions": 5,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "רעננה/קריית דוד רמז",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "רעננה/קריית ויצמן",
+    "extracted2015transactions": 46,
+    "extracted2016transactions": 51,
+    "extracted2017transactions": 47
+  },
+  {
+    "neighborhood": "רעננה/קריית שרת",
+    "extracted2015transactions": 18,
+    "extracted2016transactions": 19,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "רעננה/קרית הפרחים - 2005",
+    "extracted2015transactions": 52,
+    "extracted2016transactions": 45,
+    "extracted2017transactions": 48
+  },
+  {
+    "neighborhood": "רעננה/קרית שזר",
+    "extracted2015transactions": 5,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 55
+  },
+  {
+    "neighborhood": "רעננה/רום 2000",
+    "extracted2015transactions": 1,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 2
+  },
+  {
+    "neighborhood": "שדרות/אזור תעשיה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "שדרות/בן גוריון",
+    "extracted2015transactions": 22,
+    "extracted2016transactions": 21,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "שדרות/בן גוריון ב",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 60
+  },
+  {
+    "neighborhood": "שדרות/נאות אביב",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "שדרות/נאות אשכול",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "שדרות/נאות הדקל",
+    "extracted2015transactions": 12,
+    "extracted2016transactions": 14,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "שדרות/נאות המייסדים",
+    "extracted2015transactions": 11,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 13
+  },
+  {
+    "neighborhood": "שדרות/נאות הנביאים",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 11,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "שדרות/נאות יצחק רבין",
+    "extracted2015transactions": 217,
+    "extracted2016transactions": 193,
+    "extracted2017transactions": 58
+  },
+  {
+    "neighborhood": "תל אביב - יפו/אורות",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/אזור תעסוקה צומת חו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/אזורי חן",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 47,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "תל אביב - יפו/אפקה",
+    "extracted2015transactions": 17,
+    "extracted2016transactions": 10,
+    "extracted2017transactions": 10
+  },
+  {
+    "neighborhood": "תל אביב - יפו/בבלי",
+    "extracted2015transactions": 108,
+    "extracted2016transactions": 117,
+    "extracted2017transactions": 67
+  },
+  {
+    "neighborhood": "תל אביב - יפו/ביצרון",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 173,
+    "extracted2017transactions": 68
+  },
+  {
+    "neighborhood": "תל אביב - יפו/גבעת הרצל",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "תל אביב - יפו/גלילות",
+    "extracted2015transactions": 20,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 17
+  },
+  {
+    "neighborhood": "תל אביב - יפו/גני צהלה",
+    "extracted2015transactions": 41,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "תל אביב - יפו/גני שרונה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/דקר",
+    "extracted2015transactions": 119,
+    "extracted2016transactions": 57,
+    "extracted2017transactions": 74
+  },
+  {
+    "neighborhood": "תל אביב - יפו/הארגזים",
+    "extracted2015transactions": 138,
+    "extracted2016transactions": 109,
+    "extracted2017transactions": 82
+  },
+  {
+    "neighborhood": "תל אביב - יפו/הדר יוסף",
+    "extracted2015transactions": 63,
+    "extracted2016transactions": 27,
+    "extracted2017transactions": 78
+  },
+  {
+    "neighborhood": "תל אביב - יפו/המשתלה",
+    "extracted2015transactions": 71,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 19
+  },
+  {
+    "neighborhood": "תל אביב - יפו/הצפון החדש החלק הדר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/הצפון החדש החלק הצפ",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/הצפון החדש סביבת כי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/הצפון הישן החלק הדר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/הצפון הישן-החלק הצפ",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/התקווה",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 64
+  },
+  {
+    "neighborhood": "תל אביב - יפו/יד אליהו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/יפו ג ונווה גולן",
+    "extracted2015transactions": 63,
+    "extracted2016transactions": 68,
+    "extracted2017transactions": 50
+  },
+  {
+    "neighborhood": "תל אביב - יפו/יפו ד (גבעת התמרים",
+    "extracted2015transactions": 75,
+    "extracted2016transactions": 76,
+    "extracted2017transactions": 48
+  },
+  {
+    "neighborhood": "תל אביב - יפו/יפו העתיקה",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "תל אביב - יפו/כוכב הצפון",
+    "extracted2015transactions": 39,
+    "extracted2016transactions": 20,
+    "extracted2017transactions": 20
+  },
+  {
+    "neighborhood": "תל אביב - יפו/כפיר",
+    "extracted2015transactions": 69,
+    "extracted2016transactions": 48,
+    "extracted2017transactions": 24
+  },
+  {
+    "neighborhood": "תל אביב - יפו/כפר שלם מזרח נווה א",
+    "extracted2015transactions": 31,
+    "extracted2016transactions": 26,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "תל אביב - יפו/כפר שלם מערב נווה ב",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "תל אביב - יפו/כרם התימנים",
+    "extracted2015transactions": 74,
+    "extracted2016transactions": 68,
+    "extracted2017transactions": 61
+  },
+  {
+    "neighborhood": "תל אביב - יפו/לב העיר",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/ליבנה ידידיה",
+    "extracted2015transactions": 45,
+    "extracted2016transactions": 33,
+    "extracted2017transactions": 15
+  },
+  {
+    "neighborhood": "תל אביב - יפו/מונטיפיורי",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/מעוז אביב",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 7,
+    "extracted2017transactions": 11
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נאות אפקה א",
+    "extracted2015transactions": 16,
+    "extracted2016transactions": 15,
+    "extracted2017transactions": 12
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נאות אפקה ב",
+    "extracted2015transactions": 14,
+    "extracted2016transactions": 31,
+    "extracted2017transactions": 23
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נוה חן",
+    "extracted2015transactions": 59,
+    "extracted2016transactions": 48,
+    "extracted2017transactions": 62
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נווה אביבים וסביבת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 32
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נווה דן",
+    "extracted2015transactions": 6,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 5
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נווה צדק",
+    "extracted2015transactions": 64,
+    "extracted2016transactions": 55,
+    "extracted2017transactions": 34
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נווה שאנן",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נווה שרת",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 159,
+    "extracted2017transactions": 88
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נופי ים",
+    "extracted2015transactions": 77,
+    "extracted2016transactions": 96,
+    "extracted2017transactions": 49
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נחלת יצחק",
+    "extracted2015transactions": 3,
+    "extracted2016transactions": 49,
+    "extracted2017transactions": 56
+  },
+  {
+    "neighborhood": "תל אביב - יפו/ניר אביב",
+    "extracted2015transactions": 43,
+    "extracted2016transactions": 47,
+    "extracted2017transactions": 28
+  },
+  {
+    "neighborhood": "תל אביב - יפו/נמל תל-אביב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/עג'מי וגבעת עליה",
+    "extracted2015transactions": 34,
+    "extracted2016transactions": 41,
+    "extracted2017transactions": 29
+  },
+  {
+    "neighborhood": "תל אביב - יפו/עתידים",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/פלורנטין",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/צהלה",
+    "extracted2015transactions": 4,
+    "extracted2016transactions": 6,
+    "extracted2017transactions": 4
+  },
+  {
+    "neighborhood": "תל אביב - יפו/צהלון ושיכוני חיסכ",
+    "extracted2015transactions": 47,
+    "extracted2016transactions": 120,
+    "extracted2017transactions": 79
+  },
+  {
+    "neighborhood": "תל אביב - יפו/צוקי אביב",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/צמרות איילון",
+    "extracted2015transactions": 55,
+    "extracted2016transactions": 36,
+    "extracted2017transactions": 27
+  },
+  {
+    "neighborhood": "תל אביב - יפו/צפון יפו",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 75,
+    "extracted2017transactions": 46
+  },
+  {
+    "neighborhood": "תל אביב - יפו/קרית שאול",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 2,
+    "extracted2017transactions": 3
+  },
+  {
+    "neighborhood": "תל אביב - יפו/קרית שלום",
+    "extracted2015transactions": 60,
+    "extracted2016transactions": 68,
+    "extracted2017transactions": 51
+  },
+  {
+    "neighborhood": "תל אביב - יפו/רביבים",
+    "extracted2015transactions": 29,
+    "extracted2016transactions": 25,
+    "extracted2017transactions": 22
+  },
+  {
+    "neighborhood": "תל אביב - יפו/רמת אביב",
+    "extracted2015transactions": 40,
+    "extracted2016transactions": 39,
+    "extracted2017transactions": 25
+  },
+  {
+    "neighborhood": "תל אביב - יפו/רמת אביב ג",
+    "extracted2015transactions": 76,
+    "extracted2016transactions": 59,
+    "extracted2017transactions": 53
+  },
+  {
+    "neighborhood": "תל אביב - יפו/רמת אביב החדשה",
+    "extracted2015transactions": 37,
+    "extracted2016transactions": 46,
+    "extracted2017transactions": 37
+  },
+  {
+    "neighborhood": "תל אביב - יפו/רמת החייל",
+    "extracted2015transactions": 13,
+    "extracted2016transactions": 18,
+    "extracted2017transactions": 9
+  },
+  {
+    "neighborhood": "תל אביב - יפו/רמת הטייסים",
+    "extracted2015transactions": 9,
+    "extracted2016transactions": 12,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "תל אביב - יפו/שפירא",
+    "extracted2015transactions": 75,
+    "extracted2016transactions": 58,
+    "extracted2017transactions": 57
+  },
+  {
+    "neighborhood": "תל אביב - יפו/תכנית ל",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  },
+  {
+    "neighborhood": "תל אביב - יפו/תל ברוך",
+    "extracted2015transactions": 10,
+    "extracted2016transactions": 4,
+    "extracted2017transactions": 8
+  },
+  {
+    "neighborhood": "תל אביב - יפו/תל ברוך צפון",
+    "extracted2015transactions": 40,
+    "extracted2016transactions": 28,
+    "extracted2017transactions": 33
+  },
+  {
+    "neighborhood": "תל אביב - יפו/תל חיים",
+    "extracted2015transactions": 28,
+    "extracted2016transactions": 17,
+    "extracted2017transactions": 16
+  },
+  {
+    "neighborhood": "תל אביב - יפו/תל כביר נווה עופר י",
+    "extracted2015transactions": 0,
+    "extracted2016transactions": 0,
+    "extracted2017transactions": 0
+  }
+]
