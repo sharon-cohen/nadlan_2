@@ -97,7 +97,8 @@ async function findAndProcessDealsFiles(dirPath) {
         results.push(...subResults.results);
       } else if (
         item.isFile() &&
-        item.name.endsWith("_deals_clean_year_no_quotes.csv")
+        (item.name.endsWith("_deals_clean_year_no_quotes.csv") ||
+          item.name.endsWith("_city_deals_clean_year_no_quotes.csv"))
       ) {
         totalFiles++;
         console.log(`Processing: ${path.relative(process.cwd(), itemPath)}`);
@@ -136,7 +137,7 @@ async function findAndProcessDealsFiles(dirPath) {
 
 async function swapLastColumns() {
   console.log(
-    "Swapping last two columns in all deals_clean_year_no_quotes.csv files...\n"
+    "Swapping last two columns in all deals_clean_year_no_quotes.csv and city_deals_clean_year_no_quotes.csv files...\n"
   );
   console.log("Swapping: חדרים ↔ מחיר למר\n");
 
