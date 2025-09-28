@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-22,אגוז 27,72,2018,620000,16535-113-13,דירה בבית,3,8611
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נוף הגליל,כרמים,22,אגוז 27,72,2018,620000,16535-113-13,דירה בבית,3,8611

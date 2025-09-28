@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-137,0,100,2018,1550000,6632-457-2,דירה בבית,1,15500
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,צוקי אביב,137,0,100,2018,1550000,6632-457-2,דירה בבית,1,15500

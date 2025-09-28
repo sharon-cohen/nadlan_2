@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-15,אגוז 19,72,2021,500000,16535-114-6,דירה בבית,3,6944
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נוף הגליל,כרמים,15,אגוז 19,72,2021,500000,16535-114-6,דירה בבית,3,6944

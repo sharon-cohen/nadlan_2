@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-5,0,75,2019,4587000,30124-8-1,דירה בבית,4,61160
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ירושלים,עיר דוד,5,0,75,2019,4587000,30124-8-1,דירה בבית,4,61160

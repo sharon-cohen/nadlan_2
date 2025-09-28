@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-14,חבצלת 22,272,2018,3950000,3638-181-3,קוטג' דו משפחתי,5,14522
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נס ציונה,גבעת מיכאל,14,חבצלת 22,272,2018,3950000,3638-181-3,קוטג' דו משפחתי,5,14522

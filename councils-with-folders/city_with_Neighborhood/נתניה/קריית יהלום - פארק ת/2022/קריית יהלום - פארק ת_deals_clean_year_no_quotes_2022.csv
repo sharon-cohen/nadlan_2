@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-127,0,168,2022,2308000,8239-163-28,דירה בבית,1,13738
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נתניה,קריית יהלום - פארק ת,127,0,168,2022,2308000,8239-163-28,דירה בבית,1,13738

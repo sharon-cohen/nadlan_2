@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,0,320,2024,3750000,7842-40-1,דירה בבית,5,11719
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טייבה,אל באטן,1,0,320,2024,3750000,7842-40-1,דירה בבית,5,11719

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-76,0,139,2022,2650000,4338-123-15,דירה בבית,5,19065
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רמלה,מכבי,76,0,139,2022,2650000,4338-123-15,דירה בבית,5,19065

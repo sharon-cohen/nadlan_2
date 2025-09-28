@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,הפרסה 15,86,2025,4550000,6670-201-3,דירה בבית,4,52907
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+הרצליה,נוף ים,1,הפרסה 15,86,2025,4550000,6670-201-3,דירה בבית,4,52907

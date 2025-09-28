@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,מואב 40,156,2025,1800000,38212-81-2,דירה בבית,6,11538
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ערד,חצבים,1,מואב 40,156,2025,1800000,38212-81-2,דירה בבית,6,11538

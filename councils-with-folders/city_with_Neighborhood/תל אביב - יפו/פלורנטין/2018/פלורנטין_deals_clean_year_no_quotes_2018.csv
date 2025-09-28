@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1000,הרב פרנקל 49,44,2018,2370000,8990-18-28,דירה בבית,2,53864
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,פלורנטין,1000,הרב פרנקל 49,44,2018,2370000,8990-18-28,דירה בבית,2,53864

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-6,המסגר 8,66.7,2024,550000,12582-19-2,דירה בבית,לא ידוע,8246
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+קרית ביאליק,אזור תעשיה קרית ביא,6,המסגר 8,66.7,2024,550000,12582-19-2,דירה בבית,לא ידוע,8246

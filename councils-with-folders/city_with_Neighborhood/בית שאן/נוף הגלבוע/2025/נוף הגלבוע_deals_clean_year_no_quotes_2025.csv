@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,חצב 2,132.8,2025,1360000,22926-172-4,דירה בבית,5,10241
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+בית שאן,נוף הגלבוע,1,חצב 2,132.8,2025,1360000,22926-172-4,דירה בבית,5,10241

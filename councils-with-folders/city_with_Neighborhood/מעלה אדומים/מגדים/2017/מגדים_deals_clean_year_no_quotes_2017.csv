@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-29,הר גדור 11,146,2017,1900000,63616-5806-2,דירה בבית,6,13014
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+מעלה אדומים,מגדים,29,הר גדור 11,146,2017,1900000,63616-5806-2,דירה בבית,6,13014

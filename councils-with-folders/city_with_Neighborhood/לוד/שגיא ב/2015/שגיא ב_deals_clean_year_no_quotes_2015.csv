@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-73,אלפעל 12,65.8,2015,750000,4024-566-34,דירה בבית,3,11398
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+לוד,שגיא ב,73,אלפעל 12,65.8,2015,750000,4024-566-34,דירה בבית,3,11398

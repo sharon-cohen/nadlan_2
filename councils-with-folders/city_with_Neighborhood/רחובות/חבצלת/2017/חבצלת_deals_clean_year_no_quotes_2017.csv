@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-33,הגליל 11,88.72,2017,1270000,3816-73-14,דירה בבית,3,14315
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רחובות,חבצלת,33,הגליל 11,88.72,2017,1270000,3816-73-14,דירה בבית,3,14315

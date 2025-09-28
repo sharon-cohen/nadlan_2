@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-44,0,98,2019,3200000,30240-200-1,דירה בבית,5,32653
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ירושלים,עזרת תורה,44,0,98,2019,3200000,30240-200-1,דירה בבית,5,32653

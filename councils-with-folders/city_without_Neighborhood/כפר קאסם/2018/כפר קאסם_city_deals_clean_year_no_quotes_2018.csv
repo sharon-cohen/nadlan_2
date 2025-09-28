@@ -1,2 +1,2 @@
-מספר סידורי,שם העיר,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-117,כפר קאסם,0,400,2018,800000,8871-131-4,דירה בבית,6,2000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר קאסם,NaN,117,0,400,2018,800000,8871-131-4,דירה בבית,6,2000

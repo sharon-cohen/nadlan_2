@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,הכלנית 3,190,2025,4180000,8732-73-1,דירה בבית,6,22000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר יונה,שיכון ב,1,הכלנית 3,190,2025,4180000,8732-73-1,דירה בבית,6,22000

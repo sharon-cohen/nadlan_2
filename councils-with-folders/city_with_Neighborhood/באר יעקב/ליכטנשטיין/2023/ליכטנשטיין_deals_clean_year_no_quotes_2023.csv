@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-6,הנקר 7,105.76,2023,2800000,4040-575-20,דירה בבית,4,26475
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+באר יעקב,ליכטנשטיין,6,הנקר 7,105.76,2023,2800000,4040-575-20,דירה בבית,4,26475

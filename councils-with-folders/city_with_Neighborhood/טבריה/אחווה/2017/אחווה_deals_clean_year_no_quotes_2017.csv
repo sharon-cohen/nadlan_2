@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-24,הנוטר 22,100,2017,500000,15305-27-1,קוטג' דו משפחתי,4,5000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טבריה,אחווה,24,הנוטר 22,100,2017,500000,15305-27-1,קוטג' דו משפחתי,4,5000

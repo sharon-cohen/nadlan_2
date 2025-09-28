@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-41,הנבל 1,77,2016,2649000,30739-140-3,דירה בבית,4,34403
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ירושלים,הרובע הארמני,41,הנבל 1,77,2016,2649000,30739-140-3,דירה בבית,4,34403

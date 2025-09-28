@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,רמז 41,237.9,2025,4600000,6684-93-1,קוטג' דו משפחתי,6,19336
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+יהוד-מונוסון,נווה עובד,1,רמז 41,237.9,2025,4600000,6684-93-1,קוטג' דו משפחתי,6,19336

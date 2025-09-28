@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,מניה וישראל 13,120.5,2025,5153000,6628-545-14,דירה בבית,5,42763
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,אפקה,1,מניה וישראל 13,120.5,2025,5153000,6628-545-14,דירה בבית,5,42763

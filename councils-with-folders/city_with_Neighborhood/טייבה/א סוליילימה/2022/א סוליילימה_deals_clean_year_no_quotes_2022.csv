@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-5,0,200,2022,2200000,7852-59-1,קוטג' דו משפחתי,5,11000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טייבה,א סוליילימה,5,0,200,2022,2200000,7852-59-1,קוטג' דו משפחתי,5,11000

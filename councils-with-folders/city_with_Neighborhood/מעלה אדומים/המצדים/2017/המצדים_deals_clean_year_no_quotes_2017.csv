@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-8,המצדים 9,352,2017,2685000,63616-1-168,קוטג' דו משפחתי,7,7628
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+מעלה אדומים,המצדים,8,המצדים 9,352,2017,2685000,63616-1-168,קוטג' דו משפחתי,7,7628

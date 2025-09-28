@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-16,הר גלבוע 5,172,2017,1830000,13936-9-1,קוטג' דו משפחתי,7,10640
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+צפת,רמת רזים ב,16,הר גלבוע 5,172,2017,1830000,13936-9-1,קוטג' דו משפחתי,7,10640

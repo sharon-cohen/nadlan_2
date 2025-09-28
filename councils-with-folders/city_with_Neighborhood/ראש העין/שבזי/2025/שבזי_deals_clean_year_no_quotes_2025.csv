@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-2,יעקב ספיר 3,100,2025,2200000,4271-127-1,דירה בבית,4,22000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ראש העין,שבזי,2,יעקב ספיר 3,100,2025,2200000,4271-127-1,דירה בבית,4,22000

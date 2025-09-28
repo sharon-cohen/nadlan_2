@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-2,סעדיה גאון 23,139.57,2024,2050000,5800-5-1,דירה בבית,5,14688
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רמלה,העיר העתיקה - מזרח,2,סעדיה גאון 23,139.57,2024,2050000,5800-5-1,דירה בבית,5,14688

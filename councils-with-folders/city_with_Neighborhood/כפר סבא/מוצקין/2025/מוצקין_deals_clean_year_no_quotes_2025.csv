@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,אזר 120,74.6,2025,2450000,6434-625-6,דירה בבית,4,32842
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר סבא,מוצקין,1,אזר 120,74.6,2025,2450000,6434-625-6,דירה בבית,4,32842

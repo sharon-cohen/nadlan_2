@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,יפה נוף 28,200,2024,3850000,13089-147-1,דירה בבית,7,19250
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+צפת,בנה ביתך,1,יפה נוף 28,200,2024,3850000,13089-147-1,דירה בבית,7,19250

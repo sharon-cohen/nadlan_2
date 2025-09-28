@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-28,חנה סנש 12,44,2019,470000,18148-2-17,דירה בבית,3,10682
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נהריה,קריית עשור,28,חנה סנש 12,44,2019,470000,18148-2-17,דירה בבית,3,10682

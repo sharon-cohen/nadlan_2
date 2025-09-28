@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,מבצע קדש 5,82.1,2025,1690000,11193-233-4,דירה בבית,4,20585
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,תל ברוך,1,מבצע קדש 5,82.1,2025,1690000,11193-233-4,דירה בבית,4,20585

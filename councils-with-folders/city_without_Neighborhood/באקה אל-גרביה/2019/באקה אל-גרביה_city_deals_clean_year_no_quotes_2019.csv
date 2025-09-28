@@ -1,2 +1,2 @@
-מספר סידורי,שם העיר,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-255,באקה אל-גרביה,0,44,2019,75000,8779-43-1,דירה בבית,2,1705
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+באקה אל-גרביה,NaN,255,0,44,2019,75000,8779-43-1,דירה בבית,2,1705

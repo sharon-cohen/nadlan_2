@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-18,חבקוק 8,212,2018,3225000,8697-20-1,קוטג' דו משפחתי,5,15212
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר סבא,בית ונוף,18,חבקוק 8,212,2018,3225000,8697-20-1,קוטג' דו משפחתי,5,15212

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,אצל 3,55.8,2025,1990000,4547-10-8,דירה בבית,3,35663
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נס ציונה,גני הדר,1,אצל 3,55.8,2025,1990000,4547-10-8,דירה בבית,3,35663

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-97,פנחס קהתי 17,88,2023,3030000,30230-111-10,דירה בבית,4,34432
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ירושלים,אזור תעשיה גבעת שאו,97,פנחס קהתי 17,88,2023,3030000,30230-111-10,דירה בבית,4,34432

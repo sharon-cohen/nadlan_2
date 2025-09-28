@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-28,0,65,2018,120000,8901-1-1,דירה בבית,3,1846
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טייבה,אזור תעשיה,28,0,65,2018,120000,8901-1-1,דירה בבית,3,1846

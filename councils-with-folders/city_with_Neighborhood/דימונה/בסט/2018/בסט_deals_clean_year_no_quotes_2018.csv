@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-16,כובשי אילת 36,109.52,2018,600000,39519-41-1,דירה בבית,5,5478
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+דימונה,בסט,16,כובשי אילת 36,109.52,2018,600000,39519-41-1,דירה בבית,5,5478

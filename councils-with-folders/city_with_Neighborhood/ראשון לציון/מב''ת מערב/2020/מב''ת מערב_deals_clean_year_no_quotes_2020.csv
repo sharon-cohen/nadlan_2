@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-491,0,99,2020,435000,3946-344-45,דירה,11,4394
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ראשון לציון,מב''ת מערב,491,0,99,2020,435000,3946-344-45,דירה,11,4394

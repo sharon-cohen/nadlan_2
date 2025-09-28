@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,הנחל 4,80.86,2025,2650000,6657-370-20,דירה בבית,3,32773
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+הוד השרון,גיל עמל,1,הנחל 4,80.86,2025,2650000,6657-370-20,דירה בבית,3,32773

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-24,רח' 6001 20,130,2017,1300000,16535-9-1,קוטג' דו משפחתי,4,10000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נוף הגליל,כרמים,24,רח' 6001 20,130,2017,1300000,16535-9-1,קוטג' דו משפחתי,4,10000

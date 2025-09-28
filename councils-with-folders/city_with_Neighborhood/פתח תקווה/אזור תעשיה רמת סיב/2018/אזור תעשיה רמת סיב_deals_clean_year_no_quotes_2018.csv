@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-262,המגשימים 17,97,2018,2132000,6368-269-2,דירה בבית,4,21979
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+פתח תקווה,אזור תעשיה רמת סיב,262,המגשימים 17,97,2018,2132000,6368-269-2,דירה בבית,4,21979

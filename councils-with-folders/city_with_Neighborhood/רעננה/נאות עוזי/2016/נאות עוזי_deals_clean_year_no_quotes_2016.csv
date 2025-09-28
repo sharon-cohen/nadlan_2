@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-48,חייקה גרוסמן 5,143.21,2016,2650000,7649-308-9,דירה בבית,5,18504
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רעננה,נאות עוזי,48,חייקה גרוסמן 5,143.21,2016,2650000,7649-308-9,דירה בבית,5,18504

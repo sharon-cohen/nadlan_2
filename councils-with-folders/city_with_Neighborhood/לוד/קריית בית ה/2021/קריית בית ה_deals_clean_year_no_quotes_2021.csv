@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-5,0,124,2021,2060000,4011-35-1,דירה בבית,4,16613
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+לוד,קריית בית ה,5,0,124,2021,2060000,4011-35-1,דירה בבית,4,16613

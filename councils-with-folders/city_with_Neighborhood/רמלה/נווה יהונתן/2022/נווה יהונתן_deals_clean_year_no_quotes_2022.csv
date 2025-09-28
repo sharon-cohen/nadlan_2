@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-23,מבצע יונתן 21,113.25,2022,1800000,5808-52-1,דירה בבית,4,15894
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רמלה,נווה יהונתן,23,מבצע יונתן 21,113.25,2022,1800000,5808-52-1,דירה בבית,4,15894

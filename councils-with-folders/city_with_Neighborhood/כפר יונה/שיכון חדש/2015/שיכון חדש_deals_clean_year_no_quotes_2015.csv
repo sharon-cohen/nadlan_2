@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-38,הרב קוק 9,76.4,2015,600000,8195-2-8,דירה בבית,4,7853
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר יונה,שיכון חדש,38,הרב קוק 9,76.4,2015,600000,8195-2-8,דירה בבית,4,7853

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-17,כספי 2,66.55,2017,819000,10032-403-19,דירה בבית,3,12307
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+חדרה,גבעת בוסל,17,כספי 2,66.55,2017,819000,10032-403-19,דירה בבית,3,12307

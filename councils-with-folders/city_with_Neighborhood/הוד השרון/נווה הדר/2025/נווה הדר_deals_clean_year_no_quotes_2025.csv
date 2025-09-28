@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,שאול המלך 9,134,2025,3900000,6443-534-3,דירה בבית,5,29104
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+הוד השרון,נווה הדר,1,שאול המלך 9,134,2025,3900000,6443-534-3,דירה בבית,5,29104

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-316,0,69,2022,1025000,2062-87-691,דירה בבית,2,14855
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אשדוד,אזור תעשיה כבדה,316,0,69,2022,1025000,2062-87-691,דירה בבית,2,14855

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,התרשיש 20,273,2024,2180000,18019-39-1,דירה בבית,3.5,7985
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+עכו,נאות ים,1,התרשיש 20,273,2024,2180000,18019-39-1,דירה בבית,3.5,7985

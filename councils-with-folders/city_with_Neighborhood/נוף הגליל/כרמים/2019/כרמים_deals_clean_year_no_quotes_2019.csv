@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-18,דפנה 2,120,2019,399000,17526-20-7,קוטג' דו משפחתי,4,3325
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נוף הגליל,כרמים,18,דפנה 2,120,2019,399000,17526-20-7,קוטג' דו משפחתי,4,3325

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-93,הזית 1,56.5,2015,1600000,7590-55-2,דירה בבית,2,28319
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר סבא,גבעת אשכול,93,הזית 1,56.5,2015,1600000,7590-55-2,דירה בבית,2,28319

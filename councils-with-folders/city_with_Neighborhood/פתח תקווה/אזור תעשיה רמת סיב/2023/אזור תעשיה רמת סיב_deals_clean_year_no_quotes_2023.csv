@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-69,שחם 1,103,2023,754000,6393-14-134,דירת נופש,לא ידוע,7320
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+פתח תקווה,אזור תעשיה רמת סיב,69,שחם 1,103,2023,754000,6393-14-134,דירת נופש,לא ידוע,7320

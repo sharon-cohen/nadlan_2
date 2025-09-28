@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-23,התות 16,165.3,2019,3220000,4243-403-2,קוטג' דו משפחתי,7,19480
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ראשון לציון,צמרות,23,התות 16,165.3,2019,3220000,4243-403-2,קוטג' דו משפחתי,7,19480

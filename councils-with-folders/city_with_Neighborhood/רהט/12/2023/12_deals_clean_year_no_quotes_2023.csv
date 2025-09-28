@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,0,65,2023,1002000,100231-7-1,דירה בבית,3,15415
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רהט,12,1,0,65,2023,1002000,100231-7-1,דירה בבית,3,15415

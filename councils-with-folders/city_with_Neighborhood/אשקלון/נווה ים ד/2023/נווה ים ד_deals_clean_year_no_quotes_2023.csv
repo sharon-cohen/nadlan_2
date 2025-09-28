@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-6,הספנים 9,340,2023,4700000,3191-74-2,קוטג' חד משפחתי,6,13824
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אשקלון,נווה ים ד,6,הספנים 9,340,2023,4700000,3191-74-2,קוטג' חד משפחתי,6,13824

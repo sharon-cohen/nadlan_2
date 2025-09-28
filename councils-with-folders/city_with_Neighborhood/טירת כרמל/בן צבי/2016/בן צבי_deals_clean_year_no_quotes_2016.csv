@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-22,בן צבי 32,41.9,2016,350000,12300-5-2,דירה בבית,2.5,8353
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טירת כרמל,בן צבי,22,בן צבי 32,41.9,2016,350000,12300-5-2,דירה בבית,2.5,8353

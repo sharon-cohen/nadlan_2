@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,מימון 17,117.09,2025,3200000,8273-205-4,דירת גן,4,27329
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נתניה,נווה שלום,1,מימון 17,117.09,2025,3200000,8273-205-4,דירת גן,4,27329

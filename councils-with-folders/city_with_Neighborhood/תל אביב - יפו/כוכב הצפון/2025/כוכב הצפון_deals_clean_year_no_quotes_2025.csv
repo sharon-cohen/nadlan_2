@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,מאיר יערי 17,101.55,2025,4750000,7186-22-16,דירה בבית,4,46775
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,כוכב הצפון,1,מאיר יערי 17,101.55,2025,4750000,7186-22-16,דירה בבית,4,46775

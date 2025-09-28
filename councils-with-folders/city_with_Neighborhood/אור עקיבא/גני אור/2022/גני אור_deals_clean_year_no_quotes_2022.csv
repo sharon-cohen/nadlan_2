@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-10,גני אור 45,104,2022,2375000,12673-8-1,קוטג' דו משפחתי,6,22837
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אור עקיבא,גני אור,10,גני אור 45,104,2022,2375000,12673-8-1,קוטג' דו משפחתי,6,22837

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-25,הגילגל 67,246,2019,3210000,63616-47-2,דירה בבית,8,13049
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+מעלה אדומים,מצפה נבו,25,הגילגל 67,246,2019,3210000,63616-47-2,דירה בבית,8,13049

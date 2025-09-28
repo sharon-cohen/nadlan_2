@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-36,בן זכאי 13,37.78,2019,3625000,7656-85-1,קוטג' דו משפחתי,3,95950
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רעננה,קריית בן צבי(רסקו,36,בן זכאי 13,37.78,2019,3625000,7656-85-1,קוטג' דו משפחתי,3,95950

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-25,אזוב 4,180,2018,2329000,39828-67-2,קוטג' חד משפחתי,6,12939
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נתיבות,החורש,25,אזוב 4,180,2018,2329000,39828-67-2,קוטג' חד משפחתי,6,12939

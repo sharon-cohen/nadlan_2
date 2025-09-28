@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-35,קפלן 34,277,2015,3200000,6684-86-1,קוטג' דו משפחתי,6,11552
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+יהוד-מונוסון,נווה עובד,35,קפלן 34,277,2015,3200000,6684-86-1,קוטג' דו משפחתי,6,11552

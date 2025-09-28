@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,המעפילים 13,44,2025,1780000,7214-28-18,דירה בבית,3.5,40455
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אור יהודה,עמידר,1,המעפילים 13,44,2025,1780000,7214-28-18,דירה בבית,3.5,40455

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-12,0,115,2021,2000000,7620-146-1,קוטג' חד משפחתי,4,17391
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר סבא,שבזי,12,0,115,2021,2000000,7620-146-1,קוטג' חד משפחתי,4,17391

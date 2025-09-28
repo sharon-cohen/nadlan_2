@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,סירקין 25,83.59,2025,2890000,6430-146-21,דירה בבית,4,34574
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר סבא,סירקין,1,סירקין 25,83.59,2025,2890000,6430-146-21,דירה בבית,4,34574

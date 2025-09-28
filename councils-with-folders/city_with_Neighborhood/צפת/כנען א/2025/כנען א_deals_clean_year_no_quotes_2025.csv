@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,0,116.58,2025,3430000,13697-33-1,דירה בבית,5,29422
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+צפת,כנען א,1,0,116.58,2025,3430000,13697-33-1,דירה בבית,5,29422

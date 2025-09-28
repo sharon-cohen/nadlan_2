@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-79,0,157,2019,1629564,1216-82-4,דירה,1,10379
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אשקלון,אזור תעשיה צפוני,79,0,157,2019,1629564,1216-82-4,דירה,1,10379

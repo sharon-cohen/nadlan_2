@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-43,הפועל 5,397,2018,13320000,6670-265-1,קוטג' חד משפחתי,9,33552
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+הרצליה,נוף ים,43,הפועל 5,397,2018,13320000,6670-265-1,קוטג' חד משפחתי,9,33552

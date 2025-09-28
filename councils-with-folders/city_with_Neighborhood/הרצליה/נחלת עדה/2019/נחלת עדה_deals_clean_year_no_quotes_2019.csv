@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-28,אלחריזי 4,77.7,2019,2120000,7927-63-4,דירה בבית,4,27284
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+הרצליה,נחלת עדה,28,אלחריזי 4,77.7,2019,2120000,7927-63-4,דירה בבית,4,27284

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-40,נשרים 472,62,2015,890000,13675-18-1,דירה בבית,3,14355
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+צפת,מרום כנען איביקור,40,נשרים 472,62,2015,890000,13675-18-1,דירה בבית,3,14355

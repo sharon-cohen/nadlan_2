@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-16,הציונות 9,229,2018,3800000,3646-54-1,קוטג' דו משפחתי,6,16594
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רחובות,גינות סביון,16,הציונות 9,229,2018,3800000,3646-54-1,קוטג' דו משפחתי,6,16594

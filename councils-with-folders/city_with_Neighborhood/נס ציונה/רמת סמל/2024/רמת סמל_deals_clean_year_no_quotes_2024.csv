@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,השקד 13,179,2024,4200000,3845-97-1,קוטג' דו משפחתי,5,23464
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נס ציונה,רמת סמל,1,השקד 13,179,2024,4200000,3845-97-1,קוטג' דו משפחתי,5,23464

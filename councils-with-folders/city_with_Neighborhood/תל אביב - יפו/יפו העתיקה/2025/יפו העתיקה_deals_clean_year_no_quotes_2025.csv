@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,יפת 38,100.6,2025,12828200,7259-8-172,דירה בבית,3,127517
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,יפו העתיקה,1,יפת 38,100.6,2025,12828200,7259-8-172,דירה בבית,3,127517

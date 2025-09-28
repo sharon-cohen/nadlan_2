@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-9,יהודה הלוי 13,83.2,2022,1517800,6496-252-1,דירה בבית,4,18243
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+קרית אונו,מגדל המים,9,יהודה הלוי 13,83.2,2022,1517800,6496-252-1,דירה בבית,4,18243

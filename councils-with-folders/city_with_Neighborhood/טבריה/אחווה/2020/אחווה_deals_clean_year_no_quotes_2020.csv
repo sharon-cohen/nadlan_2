@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-14,הנוטר 10,197,2020,1500000,15305-31-1,דירת גן,6,7614
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טבריה,אחווה,14,הנוטר 10,197,2020,1500000,15305-31-1,דירת גן,6,7614

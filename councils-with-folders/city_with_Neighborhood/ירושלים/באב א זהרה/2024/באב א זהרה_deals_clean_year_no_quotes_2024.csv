@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-2,אל-יעקובי 15,260,2024,1413000,30057-173-1,דירת גן,6,5435
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ירושלים,באב א זהרה,2,אל-יעקובי 15,260,2024,1413000,30057-173-1,דירת גן,6,5435

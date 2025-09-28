@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,אל-ח'יר 40,200,2024,700000,100487-7-1,דירה בבית,5,3500
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רהט,27,1,אל-ח'יר 40,200,2024,700000,100487-7-1,דירה בבית,5,3500

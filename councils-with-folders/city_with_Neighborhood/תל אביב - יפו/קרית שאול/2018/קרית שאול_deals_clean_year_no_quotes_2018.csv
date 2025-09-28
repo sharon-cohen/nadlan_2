@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-21,משה סנה 45,114,2018,4700000,6615-6-1,קוטג' חד משפחתי,4,41228
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,קרית שאול,21,משה סנה 45,114,2018,4700000,6615-6-1,קוטג' חד משפחתי,4,41228

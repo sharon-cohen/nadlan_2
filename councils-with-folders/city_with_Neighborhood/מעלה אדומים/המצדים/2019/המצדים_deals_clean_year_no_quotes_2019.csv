@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-4,המצדים 103,311,2019,2330000,63616-103-16,דירה בבית,8,7492
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+מעלה אדומים,המצדים,4,המצדים 103,311,2019,2330000,63616-103-16,דירה בבית,8,7492

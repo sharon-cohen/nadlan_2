@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-9,המצדים 95,296,2016,2530000,63616-82-10,דירה בבית,7.5,8547
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+מעלה אדומים,המצדים,9,המצדים 95,296,2016,2530000,63616-82-10,דירה בבית,7.5,8547

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-2,0,125,2024,786000,3951-164-1,דירה בבית,4,6288
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+לוד,רמז,2,0,125,2024,786000,3951-164-1,דירה בבית,4,6288

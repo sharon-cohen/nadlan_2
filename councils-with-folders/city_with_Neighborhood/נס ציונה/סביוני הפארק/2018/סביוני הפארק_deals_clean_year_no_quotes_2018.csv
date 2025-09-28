@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-31,אליהו מירון 5,86.4,2018,1225000,5867-87-25,דירה בבית,4,14178
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נס ציונה,סביוני הפארק,31,אליהו מירון 5,86.4,2018,1225000,5867-87-25,דירה בבית,4,14178

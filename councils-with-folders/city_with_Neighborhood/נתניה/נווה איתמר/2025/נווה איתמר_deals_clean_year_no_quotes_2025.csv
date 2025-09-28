@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,וולפסון 17,94,2025,2550000,8283-64-13,דירה בבית,4,27128
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+נתניה,נווה איתמר,1,וולפסון 17,94,2025,2550000,8283-64-13,דירה בבית,4,27128

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-40,לאה גולדברג 11,379,2018,6749000,7595-137-2,קוטג' חד משפחתי,8,17807
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר סבא,אליעזר,40,לאה גולדברג 11,379,2018,6749000,7595-137-2,קוטג' חד משפחתי,8,17807

@@ -1,2 +1,2 @@
-מספר סידורי,שם העיר,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-328,סח'נין,מר יוסוף 10,190,2016,400000,19283-1-2,דירה בבית,5,2105
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+סח'נין,NaN,328,מר יוסוף 10,190,2016,400000,19283-1-2,דירה בבית,5,2105

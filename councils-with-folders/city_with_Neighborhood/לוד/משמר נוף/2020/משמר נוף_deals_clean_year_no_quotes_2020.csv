@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-33,אריה רובין 11,41,2020,725000,4016-160-202,דירה בבית,2,17683
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+לוד,משמר נוף,33,אריה רובין 11,41,2020,725000,4016-160-202,דירה בבית,2,17683

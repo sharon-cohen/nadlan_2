@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-19,0,100,2017,380000,5994-128-1,דירה בבית,4,3800
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+לוד,נווה שלום,19,0,100,2017,380000,5994-128-1,דירה בבית,4,3800

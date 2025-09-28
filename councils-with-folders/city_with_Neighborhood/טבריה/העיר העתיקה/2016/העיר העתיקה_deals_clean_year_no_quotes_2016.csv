@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-59,הבנים 7,90,2016,899000,15021-22-1,דירה בבית,4,9989
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טבריה,העיר העתיקה,59,הבנים 7,90,2016,899000,15021-22-1,דירה בבית,4,9989

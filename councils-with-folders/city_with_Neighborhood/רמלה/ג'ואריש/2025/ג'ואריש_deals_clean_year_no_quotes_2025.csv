@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,התמר 6,107,2025,500000,4601-13-12,דירה בבית,4,4673
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+רמלה,ג'ואריש,1,התמר 6,107,2025,500000,4601-13-12,דירה בבית,4,4673

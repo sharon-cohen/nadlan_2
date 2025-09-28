@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-10,0,130,2020,300000,5994-46-1,דירה בבית,5,2308
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+לוד,נווה שלום,10,0,130,2020,300000,5994-46-1,דירה בבית,5,2308

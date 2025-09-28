@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-17,0,184,2016,3200000,6223-86-1,קוטג' דו משפחתי,5,17391
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אור יהודה,רמת פנקס,17,0,184,2016,3200000,6223-86-1,קוטג' דו משפחתי,5,17391

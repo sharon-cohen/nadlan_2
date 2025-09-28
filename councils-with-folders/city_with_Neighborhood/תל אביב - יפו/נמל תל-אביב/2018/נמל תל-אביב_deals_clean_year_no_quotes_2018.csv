@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-2,הירקון 319,64,2018,3100000,6964-22-13,דירה בבית,3,48438
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+תל אביב - יפו,נמל תל-אביב,2,הירקון 319,64,2018,3100000,6964-22-13,דירה בבית,3,48438

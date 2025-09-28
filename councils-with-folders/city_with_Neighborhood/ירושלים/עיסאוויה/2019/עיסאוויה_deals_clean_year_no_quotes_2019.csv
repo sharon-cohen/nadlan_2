@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-6,0,110,2019,1945000,30529-31-1,דירה בבית,4,17682
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+ירושלים,עיסאוויה,6,0,110,2019,1945000,30529-31-1,דירה בבית,4,17682

@@ -1,2 +1,2 @@
-מספר סידורי,שם העיר,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-213,עראבה,אל-ח'ליל 33,100,2018,300000,19382-31-2,דירה בבית,4,3000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+עראבה,NaN,213,אל-ח'ליל 33,100,2018,300000,19382-31-2,דירה בבית,4,3000

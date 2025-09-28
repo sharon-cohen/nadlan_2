@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-23,חגי 42,204,2019,1585000,39810-3-1,דירה בבית,5,7770
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+דימונה,נאות הללי,23,חגי 42,204,2019,1585000,39810-3-1,דירה בבית,5,7770

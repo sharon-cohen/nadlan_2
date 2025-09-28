@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-58,הדגן 8,120,2018,1525000,38142-1-1,דירה בבית,4,12708
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+באר שבע,עמק שרה,58,הדגן 8,120,2018,1525000,38142-1-1,דירה בבית,4,12708

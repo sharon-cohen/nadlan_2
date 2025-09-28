@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-3,אשוח 33,200,2023,3200000,8149-89-6,דירה בבית,7,16000
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר יונה,שיכון א,3,אשוח 33,200,2023,3200000,8149-89-6,דירה בבית,7,16000

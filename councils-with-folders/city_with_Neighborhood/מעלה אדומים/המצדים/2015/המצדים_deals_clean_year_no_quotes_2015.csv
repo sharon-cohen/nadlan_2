@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-10,הנחלים 16,92,2015,1199000,32003-33-20,דירה בבית,4,13033
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+מעלה אדומים,המצדים,10,הנחלים 16,92,2015,1199000,32003-33-20,דירה בבית,4,13033

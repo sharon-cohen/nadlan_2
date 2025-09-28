@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-6,0,31,2022,660000,1954-57-1,דירה בבית,2,21290
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אשקלון,גן לאומי אשקלון,6,0,31,2022,660000,1954-57-1,דירה בבית,2,21290

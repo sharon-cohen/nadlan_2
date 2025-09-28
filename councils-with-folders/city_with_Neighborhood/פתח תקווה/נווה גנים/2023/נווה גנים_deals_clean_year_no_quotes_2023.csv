@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-2,החרמון 1,45.7,2023,550000,6372-154-4,דירה בבית,2.5,12035
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+פתח תקווה,נווה גנים,2,החרמון 1,45.7,2023,550000,6372-154-4,דירה בבית,2.5,12035

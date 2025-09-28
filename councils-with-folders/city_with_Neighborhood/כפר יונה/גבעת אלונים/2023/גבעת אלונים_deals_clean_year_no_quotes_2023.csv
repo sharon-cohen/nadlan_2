@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-5,הגולן 14,199,2023,3000000,8147-101-1,דירה בבית,6.5,15075
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+כפר יונה,גבעת אלונים,5,הגולן 14,199,2023,3000000,8147-101-1,דירה בבית,6.5,15075

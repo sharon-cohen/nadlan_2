@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-20,פסמון 1,267,2018,2879000,40119-2-1,דירה בבית,8,10783
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אילת,נווה מדבר,20,פסמון 1,267,2018,2879000,40119-2-1,דירה בבית,8,10783

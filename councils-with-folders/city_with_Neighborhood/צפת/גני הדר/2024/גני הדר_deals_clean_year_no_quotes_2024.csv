@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-3,0,78,2024,1000000,13612-28-1,דירה בבית,3,12821
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+צפת,גני הדר,3,0,78,2024,1000000,13612-28-1,דירה בבית,3,12821

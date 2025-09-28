@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,נווה מדבר 53,258,2024,3900000,40052-179-2,קוטג' חד משפחתי,8,15116
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+אילת,נווה מדבר,1,נווה מדבר 53,258,2024,3900000,40052-179-2,קוטג' חד משפחתי,8,15116

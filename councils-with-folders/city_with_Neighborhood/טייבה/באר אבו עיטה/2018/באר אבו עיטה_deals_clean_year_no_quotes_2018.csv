@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-8,0,147,2018,1000000,7840-36-1,דירה בבית,6,6803
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+טייבה,באר אבו עיטה,8,0,147,2018,1000000,7840-36-1,דירה בבית,6,6803

@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-1,הפסגה 44,121.15,2025,4100000,6720-105-1,דירה בבית,4,33842
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+גני תקווה,הפסגה,1,הפסגה 44,121.15,2025,4100000,6720-105-1,דירה בבית,4,33842

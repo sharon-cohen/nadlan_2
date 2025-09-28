@@ -1,2 +1,2 @@
-מספר סידורי,שם העיר,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-232,עראבה,אל-קנדול 1,122,2016,720000,19346-13-1,דירה בבית,4,5902
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+עראבה,NaN,232,אל-קנדול 1,122,2016,720000,19346-13-1,דירה בבית,4,5902

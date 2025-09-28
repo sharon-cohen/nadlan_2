@@ -1,2 +1,2 @@
-מספר סידורי,כתובת,שטח במר,תאריך העסקה,מחיר העסקה,גוש,סוג נכס,חדרים,מחיר למר
-22,אירוס 4,66.2,2020,431000,22926-204-2,דירה בבית,3,6511
+city,neighborhood,transaction_id,address,area_sqm,transaction_date,transaction_price,block,property_type,rooms,price_per_sqm
+בית שאן,נוף הגלבוע,22,אירוס 4,66.2,2020,431000,22926-204-2,דירה בבית,3,6511
